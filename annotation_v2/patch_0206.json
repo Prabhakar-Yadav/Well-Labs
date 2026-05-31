@@ -1,0 +1,28 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Not Canal",
+      "points": [
+        [
+          5.214659685863893,
+          508.87958115183244
+        ],
+        [
+          502.5968586387434,
+          14.6387434554974
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_0206.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,66 @@
+# ─── Large raw data files ───────────────────────────────────────────
+# GeoTIFF rasters (orthomosaics, DSM, DTM, silt outputs)
+*.tif
+*.TIF
+
+# NumPy arrays and compressed arrays (raw patch data)
+*.npy
+*.npz
+
+# PyTorch model weights (93–94 MB each)
+*.pt
+*.pth
+
+# Archives
+*.zip
+
+# ─── Large folders – do NOT upload ──────────────────────────────────
+# 59 GB raw orthomosaics, DSM, DTM, manual labels
+_keep_locally/
+
+# Blockage inference outputs (1.6 GB GeoTIFFs + large .npz)
+outputs/07_blockage/
+
+# Silt inference outputs (57 MB GeoTIFFs)
+outputs/08_silt/
+
+# FIC outputs (672 MB .npz + model weights)
+outputs/06_fic/
+
+# ─── Temporary / generated files ────────────────────────────────────
+# Temporary PNG pages created during report building
+report_pages/
+
+# Intermediate PDF (generated from DOCX)
+PROJECT_REPORT.pdf
+
+# ─── Python / Jupyter ───────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── Virtual environments ────────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+
+# ─── OS / IDE ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── Sensitive / local config ────────────────────────────────────────
+.env
+*.local

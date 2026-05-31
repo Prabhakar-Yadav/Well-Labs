@@ -1,0 +1,54 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other",
+      "points": [
+        [
+          13.591623036649224,
+          500.5026178010471
+        ],
+        [
+          491.0785340314136,
+          94.74345549738221
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "fic",
+      "points": [
+        [
+          5.214659685863893,
+          102.59685863874347
+        ],
+        [
+          249.71727748691097,
+          7.308900523560228
+        ],
+        [
+          198.4083769633508,
+          5.214659685863893
+        ],
+        [
+          5.738219895287983,
+          73.27748691099478
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "ATTANUR_1_manual_045.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,28 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other",
+      "points": [
+        [
+          16.209424083769647,
+          499.4554973821989
+        ],
+        [
+          493.17277486910996,
+          9.926701570680647
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "ATTANUR_1_manual_028.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

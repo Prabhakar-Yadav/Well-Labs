@@ -1,0 +1,36 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "FIC",
+      "points": [
+        [
+          78.51308900523563,
+          6.26178010471206
+        ],
+        [
+          20.397905759162313,
+          508.35602094240835
+        ],
+        [
+          56.00000000000003,
+          510.9738219895288
+        ],
+        [
+          112.02094240837698,
+          4.691099476439809
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_013.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

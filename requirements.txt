@@ -1,0 +1,27 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+segmentation-models-pytorch>=0.3.3
+
+# Geospatial / raster processing
+rasterio>=1.3.0
+
+# Image processing
+opencv-python>=4.7.0
+scikit-image>=0.20.0
+Pillow>=9.5.0
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualisation
+matplotlib>=3.6.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Report generation (optional – only needed to rebuild PROJECT_REPORT.docx)
+python-docx>=0.8.11
+PyMuPDF>=1.22.0

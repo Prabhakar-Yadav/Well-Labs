@@ -1,0 +1,52 @@
+{
+  "ATTANUR_1": {
+    "patches": 7,
+    "concrete_pct": 2.5,
+    "fic_pct": 4.01,
+    "bund_pct": 0.94,
+    "veg_blockage_pct": 0.0,
+    "sediment_block_pct": 0.02,
+    "concrete_width_m": 0.59,
+    "fic_width_m": 0.37
+  },
+  "ATTANUR_2": {
+    "patches": 2,
+    "concrete_pct": 0.83,
+    "fic_pct": 0.87,
+    "bund_pct": 0.62,
+    "veg_blockage_pct": 0.0,
+    "sediment_block_pct": 0.0,
+    "concrete_width_m": 0.48,
+    "fic_width_m": 0.39
+  },
+  "ATTANUR_3": {
+    "patches": 1,
+    "concrete_pct": 13.68,
+    "fic_pct": 8.71,
+    "bund_pct": 3.6,
+    "veg_blockage_pct": 0.01,
+    "sediment_block_pct": 0.31,
+    "concrete_width_m": 0.41,
+    "fic_width_m": 0.28
+  },
+  "ATTANUR_4": {
+    "patches": 9,
+    "concrete_pct": 1.65,
+    "fic_pct": 13.69,
+    "bund_pct": 10.22,
+    "veg_blockage_pct": 0.0,
+    "sediment_block_pct": 0.01,
+    "concrete_width_m": 0.31,
+    "fic_width_m": 0.41
+  },
+  "SHAKAPUR": {
+    "patches": 1,
+    "concrete_pct": 8.98,
+    "fic_pct": 29.82,
+    "bund_pct": 3.07,
+    "veg_blockage_pct": 0.0,
+    "sediment_block_pct": 0.0,
+    "concrete_width_m": 0.29,
+    "fic_width_m": 0.22
+  }
+}

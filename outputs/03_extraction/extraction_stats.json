@@ -1,0 +1,10 @@
+{
+  "concrete_pct": 6.33,
+  "fic_pct": 2.66,
+  "field_bund_pct": 1.14,
+  "veg_blockage_pct": 0.14,
+  "dark_blockage_pct": 0.29,
+  "fic_veg_block_pct": 0.04,
+  "concrete_width_median_px": 8.0,
+  "fic_width_median_px": 5.6
+}

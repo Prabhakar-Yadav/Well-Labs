@@ -1,0 +1,28 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fic",
+      "points": [
+        [
+          6.7853403141361355,
+          504.1675392670157
+        ],
+        [
+          493.69633507853405,
+          14.115183246073316
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "ATTANUR_1_manual_039.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

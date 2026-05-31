@@ -1,0 +1,46 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Not Canal",
+      "points": [
+        [
+          95.79057591623037,
+          171.18324607329842
+        ],
+        [
+          234.0104712041885,
+          41.86387434554975
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Not Canal",
+      "points": [
+        [
+          397.36125654450257,
+          123.01570680628274
+        ],
+        [
+          512.0,
+          52.69109947643983
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_0207.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}
