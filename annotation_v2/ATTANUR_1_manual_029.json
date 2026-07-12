@@ -1,0 +1,90 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other",
+      "points": [
+        [
+          14.638743455497405,
+          487.413612565445
+        ],
+        [
+          386.890052356021,
+          7.308900523560228
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "other",
+      "points": [
+        [
+          394.21989528795814,
+          129.82198952879583
+        ],
+        [
+          509.40314136125653,
+          134.53403141361255
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "other",
+      "points": [
+        [
+          393.17277486910996,
+          142.9109947643979
+        ],
+        [
+          510.4502617801047,
+          497.3612565445026
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "fic",
+      "points": [
+        [
+          387.93717277486905,
+          4.167539267015726
+        ],
+        [
+          503.12041884816756,
+          126.15706806282724
+        ],
+        [
+          507.83246073298426,
+          75.8952879581152
+        ],
+        [
+          464.37696335078533,
+          15.685863874345568
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "ATTANUR_1_manual_029.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

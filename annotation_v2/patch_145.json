@@ -1,0 +1,36 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fic",
+      "points": [
+        [
+          14.115183246073315,
+          9.403141361256562
+        ],
+        [
+          512.0,
+          373.582213177086
+        ],
+        [
+          507.30890052356017,
+          246.0523560209424
+        ],
+        [
+          180.60732984293196,
+          10.973821989528814
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_145.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,36 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fic",
+      "points": [
+        [
+          509.40314136125653,
+          206.7853403141361
+        ],
+        [
+          508.35602094240835,
+          246.5759162303665
+        ],
+        [
+          0.0,
+          270.03850181232383
+        ],
+        [
+          0.0,
+          221.96858638743456
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_088.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

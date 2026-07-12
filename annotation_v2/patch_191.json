@@ -1,0 +1,36 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "canal",
+      "points": [
+        [
+          6.261780104712074,
+          182.17801047120417
+        ],
+        [
+          512.0,
+          52.22051124114566
+        ],
+        [
+          512.0,
+          353.3821989528796
+        ],
+        [
+          0.0,
+          502.1833614619617
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_191.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

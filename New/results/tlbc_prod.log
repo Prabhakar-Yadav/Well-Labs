@@ -1,0 +1,7 @@
+segments to image: 191
+ATTANUR_2: imaged 105
+ATTANUR_3: imaged 63
+ATTANUR_1: imaged 0
+ATTANUR_4: imaged 0
+SHAKAPUR: imaged 23
+DONE: 191 boxes -> production/attanur | by status: {'partial': 98, 'clear': 53, 'moderate': 33, 'full': 7}

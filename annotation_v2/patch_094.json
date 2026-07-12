@@ -1,0 +1,36 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fic",
+      "points": [
+        [
+          3.12041884816756,
+          249.1937172774869
+        ],
+        [
+          503.12041884816756,
+          374.32460732984293
+        ],
+        [
+          504.6910994764397,
+          454.42931937172773
+        ],
+        [
+          0.0,
+          312.8253418207842
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_094.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

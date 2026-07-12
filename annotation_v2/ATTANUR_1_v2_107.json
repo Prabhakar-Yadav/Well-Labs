@@ -1,0 +1,28 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other",
+      "points": [
+        [
+          6.261780104712074,
+          500.5026178010471
+        ],
+        [
+          501.5497382198953,
+          16.209424083769655
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "ATTANUR_1_v2_107.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

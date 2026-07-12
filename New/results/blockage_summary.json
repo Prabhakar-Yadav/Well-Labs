@@ -1,0 +1,29 @@
+{
+  "scope": "cleaned_canal_only_fic_excluded",
+  "total_reaches": 20,
+  "total_length_m": 2868.2,
+  "clear_pct": 11.9,
+  "partial_pct": 0.0,
+  "blocked_pct": 88.1,
+  "blockage_types": {
+    "heavy_vegetation": 22
+  },
+  "per_mosaic": {
+    "NRBC_MISSION_1": {
+      "reaches": 0,
+      "clear": 0,
+      "partial": 0,
+      "blocked": 0,
+      "blockage_types": {}
+    },
+    "NRBC_SURVEY_1": {
+      "reaches": 20,
+      "clear": 0,
+      "partial": 0,
+      "blocked": 20,
+      "blockage_types": {
+        "heavy_vegetation": 20
+      }
+    }
+  }
+}

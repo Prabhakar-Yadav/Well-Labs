@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Canal Blockage, Sediment &amp; Structural Condition Report</title>
+<style>
+  :root{ --blue:#0b4f9c; --green:#1e6b1e; }
+  *{ box-sizing:border-box; }
+  body{ font-family:'Segoe UI',Arial,Helvetica,sans-serif; color:#000; background:#fff;
+        line-height:1.55; max-width:920px; margin:0 auto; padding:34px 26px; }
+  h1{ color:var(--blue); font-size:27px; margin:0 0 2px; border-bottom:3px solid var(--blue); padding-bottom:10px; }
+  p.sub{ margin:6px 0 0; font-size:14px; }
+  h2{ color:var(--blue); font-size:20px; margin:36px 0 6px; border-bottom:1px solid var(--blue); padding-bottom:5px; }
+  h3{ color:var(--blue); font-size:15.5px; margin:20px 0 4px; }
+  p,li{ font-size:14.5px; }
+  ul{ margin:6px 0 6px; padding-left:22px; }
+  li{ margin:3px 0; }
+  table{ border-collapse:collapse; width:100%; margin:12px 0; font-size:14px; }
+  th,td{ border:1px solid var(--green); padding:7px 10px; text-align:left; vertical-align:top; }
+  th{ color:var(--green); font-weight:600; }
+  img{ max-width:100%; margin:10px 0; }
+  p.caption{ font-size:13px; color:#444; margin:2px 0 14px; }
+  .note{ border-left:4px solid var(--blue); padding:9px 15px; margin:14px 0; }
+  .note b{ color:var(--blue); }
+  nav.toc{ border:1px solid var(--blue); padding:12px 20px; margin:20px 0; }
+  nav.toc ol{ margin:6px 0; padding-left:22px; }
+  nav.toc a{ color:var(--blue); text-decoration:none; }
+  nav.toc a:hover{ text-decoration:underline; }
+  .lead{ font-size:15px; }
+  footer{ margin-top:40px; border-top:1px solid var(--blue); padding-top:10px; font-size:12.5px; }
+</style>
+</head>
+<body>
+
+<h1>Canal Blockage, Sediment &amp; Structural Condition Report</h1>
+<p class="sub"><b>Areas:</b> TLBC&nbsp;D&#8209;95 (Attanur, Shakapur) and NRBC&nbsp;D&#8209;10, Raichur, Karnataka &nbsp;|&nbsp;
+<b>Data:</b> drone orthophotos + elevation models (DSM/DTM) &nbsp;|&nbsp;
+<b>Report date:</b> 9 July 2026</p>
+
+<nav class="toc">
+<b>Contents</b>
+<ol>
+  <li><a href="#summary">Summary</a></li>
+  <li><a href="#area">Study area &amp; data</a></li>
+  <li><a href="#method1">Method: detecting the canal</a></li>
+  <li><a href="#method2">Method: per-stretch classification</a></li>
+  <li><a href="#attanur">Results: TLBC D&#8209;95 (Attanur)</a></li>
+  <li><a href="#nrbc">Results: NRBC D&#8209;10</a></li>
+  <li><a href="#silt">Silt detection &amp; validation</a></li>
+  <li><a href="#deliverables">Deliverables</a></li>
+</ol>
+</nav>
+
+<h2 id="summary">1. Summary</h2>
+<p class="lead">The pipeline processes drone photography and elevation data to detect every canal stretch, classify vegetation
+blockage, quantify sediment depth, and flag structural damage. Results are delivered as a clickable map, with each
+stretch linked to its chainage, classification, and close-up photo.</p>
+<table>
+  <tr><th>Metric</th><th>Value</th></tr>
+  <tr><td>Drone imagery coverage (Attanur &amp; Shakapur)</td><td>~51 km&sup2;, 5 tiles</td></tr>
+  <tr><td>TLBC centreline mapped</td><td>16.0 km, 322 stretches</td></tr>
+  <tr><td>TLBC stretches field-verified to date</td><td>191</td></tr>
+  <tr><td>NRBC centreline mapped (precision re-survey)</td><td>22.4 km, 454 stretches</td></tr>
+  <tr><td>Canal detection accuracy (overlap score)</td><td>89%, up from 32% at first attempt</td></tr>
+</table>
+<p>Manual bank inspection is infrequent and undocumented, so blockage and damage typically go unrecorded between visits.
+A drone survey covers the full network in a single pass and produces a comparable record over time.</p>
+
+<h2 id="area">2. Study area &amp; data</h2>
+<p>Both systems are in Raichur district: <b>TLBC D&#8209;95</b>, covering the Attanur and Shakapur command area, and
+<b>NRBC D&#8209;10</b>. For each, a drone flight produced two data layers: a true-colour orthophoto at sub-5&nbsp;cm
+resolution, and a paired elevation model (DSM/DTM) used to measure sediment depth.</p>
+<table>
+  <tr><th>Tile</th><th>Area</th><th>Resolution</th></tr>
+  <tr><td>Attanur 1</td><td>3.6 km&sup2;</td><td>4.6 cm/px</td></tr>
+  <tr><td>Attanur 2</td><td>23.4 km&sup2;</td><td>4.6 cm/px</td></tr>
+  <tr><td>Attanur 3</td><td>18.7 km&sup2;</td><td>4.6 cm/px</td></tr>
+  <tr><td>Attanur 4</td><td>1.0 km&sup2;</td><td>3.5 cm/px</td></tr>
+  <tr><td>Shakapur</td><td>4.4 km&sup2;</td><td>3.4 cm/px</td></tr>
+</table>
+
+<h2 id="method1">3. Method: detecting the canal</h2>
+<p>Detection ran on the five orthophoto tiles listed in Section 2 (Attanur 1&ndash;4 and Shakapur), covering roughly
+51&nbsp;km&sup2; of the TLBC D&#8209;95 command area at sub-5&nbsp;cm resolution. These true-colour drone images are
+the same source imagery used for every later stage, from the classical pre-processing pass below through to the
+final trained model and per-stretch classification.</p>
+<p>Detection also started from a client-provided canal network shapefile (<code>TLBC_D95.shp</code>), containing two
+reference lines, TLBC main canal and Distributary&#8209;95, together spanning the full ~16&nbsp;km network. This
+shapefile supplied the initial centreline geometry, which was later realigned in GIS onto the true channel and split
+into the 322 stretches used for classification.</p>
+<p>Canal detection uses a UNet segmentation model with a ResNet&#8209;34 encoder, trained on 512&times;512 image patches
+sampled directly from the orthophotos, with a combined Focal + Dice + Boundary loss. Training data was built from
+200 hand-annotated patches (49 positive, 151 negative), labelled in LabelMe using model-guided patch selection. A
+concrete canal wall and a bare field edge can present near-identical spectral signatures in a single photo, which makes
+this a difficult classification task in practice.</p>
+<p>Before the neural network stage, an initial classical computer-vision pass separated vegetation, concrete, and soil
+using the VARI spectral index, then extracted candidate canal shapes with thresholding, morphological filtering,
+skeletonisation, and a distance transform to measure width; this baseline also guided where to sample patches for
+manual annotation. Its brightness/greyness/low-VARI thresholds for concrete, however, also matched bare soil. This was
+corrected with structural filters: a minimum skeleton length (5&nbsp;m), width consistency (coefficient of variation
+&lt; 0.5), and aspect ratio &gt; 4, since real canals are long, narrow, and uniform in width, while bare-soil patches
+are blobby and irregular.</p>
+<p>The model and training approach went through several changes before reaching the current version:</p>
+<ul>
+  <li><b>Encoder selection:</b> a larger ResNet&#8209;50 encoder (33M parameters) overfit the limited training set (overlap
+      score 0.318&rarr;0.279); reverting to the smaller ResNet&#8209;34 (24M parameters) recovered performance.</li>
+  <li><b>Classification scope:</b> an earlier 6-class version (background, main/branch canal, distributary, minor canal,
+      field-irrigation channel, field bund) underperformed a simpler binary canal-vs-background model, which was
+      adopted instead, with canal type and width determined separately after detection.</li>
+  <li><b>Target definition:</b> small farm-feeder channels and field bunds, initially detected as canal, were
+      reclassified into the negative/background class, reducing false positives.</li>
+</ul>
+<p>Methods used to improve the accuracy further:</p>
+<ul>
+  <li>Rotation/flip augmentation, to multiply the scarce canal examples.</li>
+  <li>Copy-paste augmentation, pasting real canal crops onto different backgrounds so the model learns canal texture
+      rather than surroundings.</li>
+  <li>Boundary-aware loss weighting, penalising errors at the canal edge more heavily than in the middle.</li>
+  <li>Two rounds of self-training, feeding the model's own confident predictions on new imagery back in as extra
+      training examples.</li>
+  <li>Test-time augmentation, averaging predictions over several rotated/flipped copies of the same photo.</li>
+  <li>Overlapping-tile inference, so a canal running along a tile boundary is never seen by only one tile in isolation.</li>
+  <li>Centreline realignment, repositioning the traced canal centrelines onto the true channel in GIS, then using that
+      aligned centreline to directly fine-tune the model on hand-traced positive examples.</li>
+</ul>
+<p>Model accuracy is tracked using an <b>overlap score</b> (Intersection-over-Union, IoU): the area of agreement between
+the predicted and true canal outlines, divided by their combined area. Combined, these changes raised the overlap score
+from <b>32%</b> (initial model, 200 patches) to <b>89%</b> (current model), with 94% precision and 94% recall on canal
+pixels.</p>
+
+<h2 id="method2">4. Method: per-stretch classification</h2>
+<p>Once the centreline is drawn, it is split into short stretches, each assigned a distance marker (<b>chainage</b>) so
+a finding can be located precisely, e.g. &ldquo;blockage at 340&nbsp;m&rdquo;. Each stretch is classified along three
+independent dimensions, and every automated result is field-verified before being reported.</p>
+<p>For TLBC, vegetation blockage and structural condition are both evaluated over the same sampling corridor along the
+centreline, sized to canal type: &plusmn;7&nbsp;m (14&nbsp;m total) for the main canal, &plusmn;2.5&nbsp;m (5&nbsp;m
+total) for the distributary.</p>
+<h3>4.1 Vegetation blockage</h3>
+<p>An early version of this check classified stretches purely on colour, which caused a specific problem: still or
+turbid water is often as green in a photo as vegetation is, so open water was being misclassified as blockage. This was
+corrected by adding a texture requirement: vegetation has a rough, broken surface, while water remains visually smooth
+even when it appears green. Within the corridor, a pixel is now classified as blocking vegetation only if it is both
+green (a stronger green signal than soil or lining) <i>and</i> rough-textured, which prevents flowing or standing water
+from being classified as blockage.</p>
+<table>
+  <tr><th>Class</th><th>Meaning</th><th>Vegetation cover</th></tr>
+  <tr><td>Clear</td><td>Open channel, free flow</td><td>0&ndash;5%</td></tr>
+  <tr><td>Partial</td><td>Scattered weeds, mostly at the edges</td><td>6&ndash;40%</td></tr>
+  <tr><td>Moderate</td><td>Heavy growth, flow strongly restricted</td><td>41&ndash;70%</td></tr>
+  <tr><td>Full</td><td>Overgrown, effectively no flow</td><td>71&ndash;100%</td></tr>
+</table>
+<p>Beyond this four-class rating, the pipeline also estimates the approximate length of blockage within each stretch
+from the vegetation fraction, rather than reporting only a class label.</p>
+<h3>4.2 Structural condition</h3>
+<p>Within the same corridor, each stretch is checked for patches consistent with exposed rubble, cracked concrete, or
+eroded banks. A patch is flagged when it is bright, low in colour saturation, not green, not water, and rough-textured:
+the combination that distinguishes broken or exposed material from smooth concrete lining, still water, or healthy
+vegetation.</p>
+<p>The flagging threshold is set fresh for each survey rather than fixed in advance: every stretch gets a roughness
+score, all scores are sorted lowest to highest, and the cut-off is set at the point only the roughest 5% of stretches
+exceed. So what counts as &ldquo;rough enough to flag&rdquo; adapts to that particular survey's own data. A floor value
+(0.04) stops this cut-off from ever becoming unrealistically low on an unusually smooth survey, which would otherwise
+start flagging ordinary wear as damage. The result is a deliberately conservative setting, chosen to minimize false
+positives.</p>
+<h3>4.3 Sediment depth</h3>
+<p>Silt depth at each point is computed as surface elevation (DSM) minus bed elevation (DTM). The mapped output groups
+the result into thin (under 0.5&nbsp;m), moderate (0.5&ndash;1.0&nbsp;m), and heavy (over 1.0&nbsp;m) silt cover.
+Section 7 covers this in full, including validation against independently measured depth.</p>
+
+<h2 id="attanur">5. Results: TLBC D&#8209;95 (Attanur)</h2>
+<p>All figures below are field-verified, not raw model output.</p>
+<table>
+  <tr><th>Class</th><th>Stretches</th><th>Share</th></tr>
+  <tr><td>Clear</td><td>53</td><td>28%</td></tr>
+  <tr><td>Partial</td><td>98</td><td>51%</td></tr>
+  <tr><td>Moderate</td><td>33</td><td>17%</td></tr>
+  <tr><td>Full</td><td>7</td><td>4%</td></tr>
+  <tr><td><b>Total verified</b></td><td><b>191</b></td><td>of 322 mapped</td></tr>
+</table>
+<p>Structural damage is flagged on <b>25 of 191</b> stretches (13%), always shown with a text label rather than colour,
+so it is never confused with the blockage rating.</p>
+<p>Measured against the field-verified labels, the classification model reaches <b>100%</b> accuracy at telling open
+from obstructed, a <b>90.6%</b> exact match across all four classes (18 of 191 mispredicted), and a serious
+clear&harr;blocked mistake rate of <b>0%</b>.</p>
+<p>For reference: stretch #183 (Distributary&#8209;95, chainage 3650&nbsp;m) is classified Full at 89% vegetation cover;
+stretch #45 (TLBC main, chainage 2200&nbsp;m) is classified Clear at 2%.</p>
+<img src="../New/results/confusion_matrix_tlbc_new.png" alt="TLBC D-95 confusion matrix">
+<p class="caption">Confusion matrix, predicted vs. field-verified class, 191 stretches. Every mismatch sits on the
+Partial/Moderate boundary; Clear and Full are both 100% clean.</p>
+<h3>Attributes in the shapefile</h3>
+<p><code>tlbc_segments.shp</code> carries the following fields for every stretch:</p>
+<ul>
+  <li><b>id:</b> stretch identifier.</li>
+  <li><b>canal:</b> canal name (TLBC main or Distributary&#8209;95).</li>
+  <li><b>ctype:</b> canal type (main or distributary), used to set the sampling corridor width.</li>
+  <li><b>width:</b> corridor width in metres (14 for main, 5 for distributary).</li>
+  <li><b>chainage:</b> distance marker along the canal, in metres.</li>
+  <li><b>blockpct:</b> block percentage = vegetation pixels &divide; total channel pixels &times; 100 (within the
+      sampling width of the canal); this is the number the four-class rating (clear/partial/moderate/full) is derived
+      from.</li>
+  <li><b>predicted:</b> the class the model assigns from blockpct.</li>
+  <li><b>actual:</b> the class confirmed by field verification.</li>
+  <li><b>damage:</b> structural damage flag, blank or &ldquo;Structural damage&rdquo;.</li>
+</ul>
+
+<h2 id="nrbc">6. Results: NRBC D&#8209;10</h2>
+<p>The NRBC canal network was taken from a Google Earth KML file listing the main canal, distributaries, and laterals,
+and converted into a GIS layer; irrigation-outlet and minor markers not needed for blockage checking were dropped.
+Chainage was set hierarchically rather than from one single origin: each distributary's distance starts where it
+leaves the main canal, and each lateral's distance starts where it leaves its distributary.</p>
+<p>NRBC was covered earlier, using fixed 50&nbsp;m reaches. To measure how good the automatic result really was, all
+<b>405 reaches</b> were opened in QGIS and checked one by one against the drone image, marked clear, partial, or
+blocked; this verified set is the ground truth. A classification model (the strongest of three candidate models
+tested) was then trained and validated on those checks. That pass is complete and delivered as a 395-stretch clickable
+package.</p>
+<table>
+  <tr><th>Measure</th><th>NRBC D&#8209;10</th></tr>
+  <tr><td>Serious mistakes (clear&harr;blocked)</td><td>2%</td></tr>
+  <tr><td>Blocked-vs-open accuracy</td><td>91%</td></tr>
+  <tr><td>Weighted accuracy (severity scheme)</td><td>88%</td></tr>
+  <tr><td>Exact 3-way (clear / partial / blocked)</td><td>78%</td></tr>
+</table>
+<img src="../New/results/confusion_matrix.png" alt="NRBC D-10 confusion matrix">
+<p class="caption">Confusion matrix, model prediction (rows) vs. field-verified truth (columns), 405 reaches. Blocked
+is the most reliably caught class (92% recall); most confusion sits between partial and blocked.</p>
+
+<h2 id="silt">7. Silt detection &amp; validation</h2>
+<h3>7.1 Detection</h3>
+<p>Sediment depth is measured as a stage separate from vegetation blockage, using the drone elevation data rather than
+the photo. Unlike canal detection, this is not a trained neural network: it is a direct elevation calculation. A height
+model is computed as <b>CHM = DSM &minus; DTM</b> within the canal mask (surface elevation minus bare-bed elevation),
+giving the thickness of material sitting on the bed at every point. Depth is grouped into three fixed bands: thin
+(under 0.5&nbsp;m), moderate (0.5&ndash;1.0&nbsp;m), and heavy (over 1.0&nbsp;m), and exported as silt maps, CHM
+rasters, per-reach summaries, and JSON reports.</p>
+<h3>7.2 Validation method</h3>
+<p>To check accuracy, the model's per-pixel depth class was compared against an independent reference depth raster,
+computed in GIS the same way (DSM &minus; DTM) and converted to the same three bands, across the Attanur tiles.
+Comparison was pixel by pixel along the canal, scored with overall accuracy, per-class precision/recall/F1, a confusion
+matrix, and a visual comparison of predicted vs. actual class unrolled along the canal length. This surface-minus-terrain
+differencing, comparing an elevation model of everything above the bed against the bed itself, is a standard method in
+remote sensing for measuring deposition.</p>
+<h3>7.3 Results</h3>
+<ul>
+  <li><b>Attanur 1:</b> 94.7% validation accuracy, strong agreement.</li>
+  <li><b>Attanur 3:</b> 91.1% validation accuracy, strong agreement.</li>
+  <li><b>Attanur 2:</b> 57.3% validation accuracy; reference elevation data only overlapped the canal at its two ends,
+      a gap in the comparison data, not a model fault.</li>
+  <li><b>Attanur 4:</b> n/a, no usable reference data exported.</li>
+</ul>
+<p>Each figure below has the same five panels: a confusion matrix and a class-distribution bar chart at the top; the
+canal itself unrolled into a strip below that, showing predicted vs. actual silt class along its length (white means
+no reference data at that point); and the actual depth profile along the canal at the bottom.</p>
+<img src="../outputs/08_silt/validation/ATTANUR_1_validation.png" alt="Attanur 1 silt validation">
+<p class="caption">Attanur 1: 94.7% pixel accuracy. Reference coverage is limited to short stretches near the start and
+around the 1150&ndash;1250&nbsp;m mark; silt depth stays near zero across the tile.</p>
+<img src="../outputs/08_silt/validation/ATTANUR_2_validation.png" alt="Attanur 2 silt validation">
+<p class="caption">Attanur 2: 57.3% pixel accuracy. Reference elevation data only overlaps the canal at its two ends,
+a gap in the comparison data rather than a model fault.</p>
+<img src="../outputs/08_silt/validation/ATTANUR_3_validation.png" alt="Attanur 3 silt validation">
+<p class="caption">Attanur 3: 91.1% pixel accuracy, 94% along-canal segment agreement. Two short stretches (around
+600&nbsp;m and 3300&nbsp;m) are model false positives for high silt, not present in the actual profile.</p>
+<p>Average across tiles with usable reference data: <b>~81%</b>. Sediment is not evenly spread across the survey area:
+Attanur&nbsp;1 is the cleanest tile surveyed (95% thin cover, average depth 0.37&nbsp;m), while parts of
+Attanur&nbsp;2 carry close to a metre of built-up material on average.</p>
+
+<h2 id="deliverables">8. Deliverables</h2>
+<p>Each classified stretch is packaged as a numbered, zoomed-in photo alongside a clickable map box, so a field officer
+can visually confirm any result without opening the source imagery. Each area's package contains a GeoJSON file (the
+main integration file, one clickable polygon per stretch with its status, chainage, and image path as properties), the
+numbered photos, an index in JSON and CSV form, a reference overview map, and the same boxes as a GIS shapefile.</p>
+<ul>
+  <li><b>TLBC D&#8209;95 (Attanur):</b> <code>production/attanur/</code>, 191 boxes.</li>
+  <li><b>NRBC D&#8209;10:</b> <code>production/nrbc/</code>, 395 boxes.</li>
+</ul>
+<p>Both packages use the field-verified labels.</p>
+<img src="../production/attanur/images/0262.jpg" alt="Example zoomed stretch photo, stretch 262, Full blockage">
+<p class="caption">Example package photo: stretch #262 (Distributary&#8209;95, chainage 7600&nbsp;m), classified Full
+at 75% vegetation cover. The red line marks the traced centreline; each package photo is generated this way.</p>
+
+<footer>Canal Blockage, Sediment &amp; Structural Condition: internal project report. Areas: TLBC&nbsp;D&#8209;95
+(Attanur) and NRBC&nbsp;D&#8209;10, Raichur, Karnataka.</footer>
+
+</body>
+</html>

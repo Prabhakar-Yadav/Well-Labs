@@ -1,0 +1,72 @@
+{
+  "TLBC_D95_ATTANUR_1": {
+    "file": "TLBC_D95_ATTANUR_1_ortho.tif",
+    "size_gb": 4.36,
+    "scale": 34,
+    "concrete_canal_pct": 9.39,
+    "earthen_fic_pct": 10.09,
+    "vegetation_pct": 70.93,
+    "sampled_px": 122346,
+    "vari_mean": 0.23,
+    "vari_std": 0.191,
+    "R_median": 110.0,
+    "G_median": 138.0,
+    "B_median": 102.0
+  },
+  "TLBC_D95_ATTANUR_2": {
+    "file": "TLBC_D95_ATTANUR_2_ortho.tif",
+    "size_gb": 23.62,
+    "scale": 91,
+    "concrete_canal_pct": 8.14,
+    "earthen_fic_pct": 7.84,
+    "vegetation_pct": 74.75,
+    "sampled_px": 96129,
+    "vari_mean": 0.328,
+    "vari_std": 0.221,
+    "R_median": 97.0,
+    "G_median": 141.0,
+    "B_median": 91.0
+  },
+  "TLBC_D95_ATTANUR_3": {
+    "file": "TLBC_D95_ATTANUR_3_ortho.tif",
+    "size_gb": 18.55,
+    "scale": 92,
+    "concrete_canal_pct": 8.59,
+    "earthen_fic_pct": 9.15,
+    "vegetation_pct": 72.44,
+    "sampled_px": 87390,
+    "vari_mean": 0.357,
+    "vari_std": 0.201,
+    "R_median": 84.0,
+    "G_median": 132.0,
+    "B_median": 74.0
+  },
+  "TLBC_D95_ATTANUR_4": {
+    "file": "TLBC_D95_ATTANUR_4_ortho.tif",
+    "size_gb": 3.04,
+    "scale": 29,
+    "concrete_canal_pct": 3.42,
+    "earthen_fic_pct": 13.09,
+    "vegetation_pct": 69.01,
+    "sampled_px": 174780,
+    "vari_mean": 0.233,
+    "vari_std": 0.156,
+    "R_median": 82.0,
+    "G_median": 111.0,
+    "B_median": 72.0
+  },
+  "TLBC_D95_SHAKAPUR": {
+    "file": "TLBC_D95_SHAKAPUR_ortho.tif",
+    "size_gb": 10.78,
+    "scale": 59,
+    "concrete_canal_pct": 9.16,
+    "earthen_fic_pct": 15.74,
+    "vegetation_pct": 49.54,
+    "sampled_px": 148563,
+    "vari_mean": 0.122,
+    "vari_std": 0.127,
+    "R_median": 107.0,
+    "G_median": 122.0,
+    "B_median": 80.0
+  }
+}

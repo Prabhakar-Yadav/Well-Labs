@@ -1,0 +1,3234 @@
+[
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 0.0,
+    "status": "clear",
+    "veg_frac": 0.34
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 50.0,
+    "status": "partial",
+    "veg_frac": 0.39
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 100.0,
+    "status": "clear",
+    "veg_frac": 0.22
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 150.0,
+    "status": "clear",
+    "veg_frac": 0.25
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 200.0,
+    "status": "clear",
+    "veg_frac": 0.15
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 250.0,
+    "status": "clear",
+    "veg_frac": 0.24
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 300.0,
+    "status": "clear",
+    "veg_frac": 0.33
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 350.0,
+    "status": "clear",
+    "veg_frac": 0.3
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 400.0,
+    "status": "clear",
+    "veg_frac": 0.35
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 450.0,
+    "status": "partial",
+    "veg_frac": 0.35
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 500.0,
+    "status": "partial",
+    "veg_frac": 0.39
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 550.0,
+    "status": "partial",
+    "veg_frac": 0.4
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 600.0,
+    "status": "partial",
+    "veg_frac": 0.39
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.9
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 750.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 800.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 850.0,
+    "status": "clear",
+    "veg_frac": 0.34
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 900.0,
+    "status": "clear",
+    "veg_frac": 0.27
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 950.0,
+    "status": "clear",
+    "veg_frac": 0.22
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1000.0,
+    "status": "partial",
+    "veg_frac": 0.48
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1050.0,
+    "status": "partial",
+    "veg_frac": 0.5
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1100.0,
+    "status": "partial",
+    "veg_frac": 0.37
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1150.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1200.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1250.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1300.0,
+    "status": "blocked",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1350.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1400.0,
+    "status": "blocked",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1450.0,
+    "status": "blocked",
+    "veg_frac": 0.87
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1750.0,
+    "status": "blocked",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1800.0,
+    "status": "blocked",
+    "veg_frac": 0.66
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1850.0,
+    "status": "partial",
+    "veg_frac": 0.91
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1900.0,
+    "status": "blocked",
+    "veg_frac": 0.64
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1950.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2000.0,
+    "status": "blocked",
+    "veg_frac": 0.63
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2050.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2100.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2150.0,
+    "status": "blocked",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2200.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2250.0,
+    "status": "partial",
+    "veg_frac": 0.49
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2300.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2350.0,
+    "status": "partial",
+    "veg_frac": 0.49
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2400.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2450.0,
+    "status": "partial",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2500.0,
+    "status": "partial",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2550.0,
+    "status": "partial",
+    "veg_frac": 0.5
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2600.0,
+    "status": "partial",
+    "veg_frac": 0.44
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2650.0,
+    "status": "partial",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2700.0,
+    "status": "partial",
+    "veg_frac": 0.48
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2750.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2800.0,
+    "status": "partial",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2850.0,
+    "status": "partial",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2900.0,
+    "status": "partial",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 2950.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3000.0,
+    "status": "clear",
+    "veg_frac": 0.3
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3050.0,
+    "status": "clear",
+    "veg_frac": 0.32
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3100.0,
+    "status": "partial",
+    "veg_frac": 0.48
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3150.0,
+    "status": "partial",
+    "veg_frac": 0.47
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3200.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3250.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3300.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3350.0,
+    "status": "blocked",
+    "veg_frac": 0.7
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3400.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3450.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3500.0,
+    "status": "blocked",
+    "veg_frac": 0.83
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3550.0,
+    "status": "blocked",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3600.0,
+    "status": "blocked",
+    "veg_frac": 0.95
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3650.0,
+    "status": "blocked",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3700.0,
+    "status": "blocked",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3750.0,
+    "status": "blocked",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3800.0,
+    "status": "blocked",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3850.0,
+    "status": "blocked",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3900.0,
+    "status": "blocked",
+    "veg_frac": 0.95
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 3950.0,
+    "status": "blocked",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4000.0,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4050.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4100.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4150.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4200.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4250.0,
+    "status": "clear",
+    "veg_frac": 0.28
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4300.0,
+    "status": "partial",
+    "veg_frac": 0.45
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4350.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4400.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4450.0,
+    "status": "blocked",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4500.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4550.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4600.0,
+    "status": "blocked",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4650.0,
+    "status": "blocked",
+    "veg_frac": 0.84
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 4700.0,
+    "status": "blocked",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.99
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.99
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "clear",
+    "veg_frac": 0.24
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "clear",
+    "veg_frac": 0.28
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "clear",
+    "veg_frac": 0.09
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.36
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.49
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "clear",
+    "veg_frac": 0.35
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.63
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.87
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.99
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "NRBC canal",
+    "type": "main",
+    "chainage_m": null,
+    "status": "partial",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "blocked",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "partial",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "partial",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.9
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 850.0,
+    "status": "blocked",
+    "veg_frac": 0.87
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 900.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 950.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 1000.0,
+    "status": "blocked",
+    "veg_frac": 0.99
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 1",
+    "type": "lateral",
+    "chainage_m": 1050.0,
+    "status": "blocked",
+    "veg_frac": 0.95
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "blocked",
+    "veg_frac": 0.83
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "blocked",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.91
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "partial",
+    "veg_frac": 0.37
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "clear",
+    "veg_frac": 0.23
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "blocked",
+    "veg_frac": 0.91
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.92
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.91
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "partial",
+    "veg_frac": 0.44
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 850.0,
+    "status": "blocked",
+    "veg_frac": 0.7
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 900.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 950.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1000.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1050.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1100.0,
+    "status": "blocked",
+    "veg_frac": 0.87
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1150.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1200.0,
+    "status": "blocked",
+    "veg_frac": 0.83
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1250.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1300.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1350.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1400.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1450.0,
+    "status": "blocked",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1500.0,
+    "status": "blocked",
+    "veg_frac": 0.95
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1550.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1600.0,
+    "status": "blocked",
+    "veg_frac": 0.87
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1650.0,
+    "status": "blocked",
+    "veg_frac": 0.84
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1700.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1750.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1800.0,
+    "status": "blocked",
+    "veg_frac": 0.89
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1850.0,
+    "status": "blocked",
+    "veg_frac": 0.91
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1900.0,
+    "status": "blocked",
+    "veg_frac": 0.95
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 1950.0,
+    "status": "blocked",
+    "veg_frac": 0.91
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 1A",
+    "type": "lateral",
+    "chainage_m": 2000.0,
+    "status": "blocked",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "partial",
+    "veg_frac": 0.41
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "partial",
+    "veg_frac": 0.38
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "partial",
+    "veg_frac": 0.42
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "partial",
+    "veg_frac": 0.48
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "partial",
+    "veg_frac": 0.45
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "partial",
+    "veg_frac": 0.5
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "partial",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "partial",
+    "veg_frac": 0.49
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 850.0,
+    "status": "blocked",
+    "veg_frac": 0.63
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 900.0,
+    "status": "partial",
+    "veg_frac": 0.39
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 950.0,
+    "status": "partial",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1000.0,
+    "status": "partial",
+    "veg_frac": 0.45
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1050.0,
+    "status": "partial",
+    "veg_frac": 0.4
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1100.0,
+    "status": "partial",
+    "veg_frac": 0.45
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1150.0,
+    "status": "partial",
+    "veg_frac": 0.47
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1200.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1250.0,
+    "status": "partial",
+    "veg_frac": 0.38
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1300.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1350.0,
+    "status": "partial",
+    "veg_frac": 0.47
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1400.0,
+    "status": "partial",
+    "veg_frac": 0.38
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1450.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1500.0,
+    "status": "partial",
+    "veg_frac": 0.52
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1550.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1600.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1650.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1700.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1750.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1800.0,
+    "status": "partial",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1850.0,
+    "status": "partial",
+    "veg_frac": 0.48
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1900.0,
+    "status": "partial",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 1950.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2000.0,
+    "status": "blocked",
+    "veg_frac": 0.63
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2050.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2100.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2150.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2200.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2250.0,
+    "status": "blocked",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2300.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2350.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2400.0,
+    "status": "blocked",
+    "veg_frac": 0.84
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2450.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2500.0,
+    "status": "blocked",
+    "veg_frac": 0.93
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2550.0,
+    "status": "blocked",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2600.0,
+    "status": "blocked",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "lateral 2",
+    "type": "lateral",
+    "chainage_m": 2650.0,
+    "status": "blocked",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.66
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "partial",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "blocked",
+    "veg_frac": 0.63
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "blocked",
+    "veg_frac": 0.58
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "partial",
+    "veg_frac": 0.48
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "partial",
+    "veg_frac": 0.5
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "partial",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "partial",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 850.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 900.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 950.0,
+    "status": "blocked",
+    "veg_frac": 0.63
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 1000.0,
+    "status": "blocked",
+    "veg_frac": 0.58
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 3",
+    "type": "lateral",
+    "chainage_m": 1050.0,
+    "status": "partial",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.64
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "blocked",
+    "veg_frac": 0.58
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.64
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "blocked",
+    "veg_frac": 0.96
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.87
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 4",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "partial",
+    "veg_frac": 0.52
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "partial",
+    "veg_frac": 0.52
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "partial",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "blocked",
+    "veg_frac": 0.92
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.9
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "blocked",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "partial",
+    "veg_frac": 0.96
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 850.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral  5",
+    "type": "lateral",
+    "chainage_m": 900.0,
+    "status": "blocked",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "partial",
+    "veg_frac": 0.49
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "blocked",
+    "veg_frac": 0.63
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "blocked",
+    "veg_frac": 0.66
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "partial",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "blocked",
+    "veg_frac": 0.93
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 850.0,
+    "status": "blocked",
+    "veg_frac": 0.93
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 900.0,
+    "status": "blocked",
+    "veg_frac": 0.9
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 950.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 1000.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 1050.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral 6",
+    "type": "lateral",
+    "chainage_m": 1100.0,
+    "status": "blocked",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 50.0,
+    "status": "blocked",
+    "veg_frac": 0.89
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 100.0,
+    "status": "blocked",
+    "veg_frac": 0.88
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 200.0,
+    "status": "blocked",
+    "veg_frac": 0.93
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 250.0,
+    "status": "blocked",
+    "veg_frac": 0.95
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 300.0,
+    "status": "blocked",
+    "veg_frac": 0.99
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 400.0,
+    "status": "blocked",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 450.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 500.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 550.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 600.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 650.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 700.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 750.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 800.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 850.0,
+    "status": "blocked",
+    "veg_frac": 0.9
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 900.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 950.0,
+    "status": "blocked",
+    "veg_frac": 0.66
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1000.0,
+    "status": "blocked",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1050.0,
+    "status": "blocked",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1100.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1150.0,
+    "status": "blocked",
+    "veg_frac": 0.86
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1200.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1250.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1300.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1350.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1400.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1450.0,
+    "status": "blocked",
+    "veg_frac": 0.66
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1500.0,
+    "status": "partial",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1550.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1600.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1650.0,
+    "status": "blocked",
+    "veg_frac": 0.84
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1700.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1750.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1800.0,
+    "status": "blocked",
+    "veg_frac": 0.98
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1850.0,
+    "status": "blocked",
+    "veg_frac": 0.89
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1900.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 1950.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2000.0,
+    "status": "partial",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2050.0,
+    "status": "blocked",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2100.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2150.0,
+    "status": "blocked",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2200.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2250.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2300.0,
+    "status": "blocked",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "NRBC_D10_Survey_1",
+    "canal": "Lateral-7",
+    "type": "lateral",
+    "chainage_m": 2350.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1250.0,
+    "status": "blocked",
+    "veg_frac": 0.83
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1300.0,
+    "status": "blocked",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1350.0,
+    "status": "blocked",
+    "veg_frac": 0.94
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1400.0,
+    "status": "blocked",
+    "veg_frac": 0.92
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1450.0,
+    "status": "blocked",
+    "veg_frac": 0.9
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1500.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1550.0,
+    "status": "blocked",
+    "veg_frac": 0.92
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1600.0,
+    "status": "blocked",
+    "veg_frac": 0.95
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1650.0,
+    "status": "blocked",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1700.0,
+    "status": "blocked",
+    "veg_frac": 0.89
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1750.0,
+    "status": "blocked",
+    "veg_frac": 1.0
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1800.0,
+    "status": "blocked",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1850.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1900.0,
+    "status": "partial",
+    "veg_frac": 0.42
+  },
+  {
+    "tile": "NRBC_D10_MISSION_1",
+    "canal": "D-10pa",
+    "type": "distributary",
+    "chainage_m": 1950.0,
+    "status": "clear",
+    "veg_frac": 0.33
+  }
+]

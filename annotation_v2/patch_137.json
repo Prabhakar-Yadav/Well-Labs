@@ -1,0 +1,36 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fic",
+      "points": [
+        [
+          195.79057591623035,
+          2.5968586387434742
+        ],
+        [
+          171.18324607329845,
+          453.3821989528796
+        ],
+        [
+          237.15183246073298,
+          467.5183246073299
+        ],
+        [
+          255.4764397905759,
+          1.549738219895307
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_137.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,30 @@
+{
+  "n": 405,
+  "weighted_0p5_1p0": 88.1,
+  "within_one_class": 97.8,
+  "binary": 90.6,
+  "exact": 78.5,
+  "fit": 100.0,
+  "confusion_pred_x_truth": [
+    [
+      22,
+      11,
+      2
+    ],
+    [
+      18,
+      101,
+      15
+    ],
+    [
+      7,
+      34,
+      195
+    ]
+  ],
+  "classes": [
+    "clear",
+    "partial",
+    "blocked"
+  ]
+}

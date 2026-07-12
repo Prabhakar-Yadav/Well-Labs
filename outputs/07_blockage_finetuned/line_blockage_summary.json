@@ -1,0 +1,1276 @@
+[
+  {
+    "tile": "ATTANUR_2",
+    "feature": 0,
+    "chainage_m": 3100.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 0,
+    "chainage_m": 3150.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 0,
+    "chainage_m": 3200.0,
+    "status": "blocked",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 0,
+    "chainage_m": 3250.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 0,
+    "chainage_m": 3300.0,
+    "status": "blocked",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2100.0,
+    "status": "blocked",
+    "veg_frac": 0.84
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2150.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2200.0,
+    "status": "blocked",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2250.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2300.0,
+    "status": "blocked",
+    "veg_frac": 0.45
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2350.0,
+    "status": "blocked",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2400.0,
+    "status": "blocked",
+    "veg_frac": 0.7
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2450.0,
+    "status": "blocked",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2500.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2550.0,
+    "status": "blocked",
+    "veg_frac": 0.66
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2600.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2650.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2700.0,
+    "status": "blocked",
+    "veg_frac": 0.7
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2750.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2800.0,
+    "status": "blocked",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2850.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2900.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 2950.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3000.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3050.0,
+    "status": "partial",
+    "veg_frac": 0.3
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3100.0,
+    "status": "clear",
+    "veg_frac": 0.18
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3150.0,
+    "status": "partial",
+    "veg_frac": 0.33
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3200.0,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3250.0,
+    "status": "blocked",
+    "veg_frac": 0.47
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3300.0,
+    "status": "blocked",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3350.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3400.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3450.0,
+    "status": "blocked",
+    "veg_frac": 0.7
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3500.0,
+    "status": "blocked",
+    "veg_frac": 0.7
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3550.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3600.0,
+    "status": "partial",
+    "veg_frac": 0.32
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3650.0,
+    "status": "partial",
+    "veg_frac": 0.36
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3700.0,
+    "status": "partial",
+    "veg_frac": 0.34
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3750.0,
+    "status": "partial",
+    "veg_frac": 0.31
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3800.0,
+    "status": "partial",
+    "veg_frac": 0.34
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3850.0,
+    "status": "partial",
+    "veg_frac": 0.31
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3900.0,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 3950.0,
+    "status": "partial",
+    "veg_frac": 0.32
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4000.0,
+    "status": "blocked",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4050.0,
+    "status": "blocked",
+    "veg_frac": 0.64
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4100.0,
+    "status": "blocked",
+    "veg_frac": 0.76
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4150.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4200.0,
+    "status": "blocked",
+    "veg_frac": 0.58
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4250.0,
+    "status": "blocked",
+    "veg_frac": 0.47
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4300.0,
+    "status": "blocked",
+    "veg_frac": 0.46
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4350.0,
+    "status": "blocked",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4400.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4450.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4500.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4550.0,
+    "status": "blocked",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4600.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4650.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4700.0,
+    "status": "blocked",
+    "veg_frac": 0.66
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4750.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4800.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4850.0,
+    "status": "blocked",
+    "veg_frac": 0.56
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4900.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 4950.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5000.0,
+    "status": "blocked",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5050.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5100.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5150.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5200.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5250.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5300.0,
+    "status": "blocked",
+    "veg_frac": 0.82
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5350.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5400.0,
+    "status": "blocked",
+    "veg_frac": 0.55
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5450.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5500.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5550.0,
+    "status": "blocked",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5600.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5650.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5700.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5750.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5800.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5850.0,
+    "status": "blocked",
+    "veg_frac": 0.74
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5900.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 5950.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6000.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6050.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6100.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6150.0,
+    "status": "blocked",
+    "veg_frac": 0.67
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6200.0,
+    "status": "blocked",
+    "veg_frac": 0.65
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6250.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6300.0,
+    "status": "partial",
+    "veg_frac": 0.34
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6350.0,
+    "status": "blocked",
+    "veg_frac": 0.5
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6400.0,
+    "status": "blocked",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6450.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6500.0,
+    "status": "partial",
+    "veg_frac": 0.44
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6550.0,
+    "status": "partial",
+    "veg_frac": 0.42
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6600.0,
+    "status": "blocked",
+    "veg_frac": 0.59
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6650.0,
+    "status": "blocked",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6700.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6750.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6800.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6850.0,
+    "status": "blocked",
+    "veg_frac": 0.73
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6900.0,
+    "status": "blocked",
+    "veg_frac": 0.81
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 6950.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 7000.0,
+    "status": "blocked",
+    "veg_frac": 0.72
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 7050.0,
+    "status": "blocked",
+    "veg_frac": 0.8
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 13900.0,
+    "status": "blocked",
+    "veg_frac": 0.96
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 13950.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 14000.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 14050.0,
+    "status": "blocked",
+    "veg_frac": 0.96
+  },
+  {
+    "tile": "ATTANUR_2",
+    "feature": 1,
+    "chainage_m": 14100.0,
+    "status": "blocked",
+    "veg_frac": 0.97
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2050.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2100.0,
+    "status": "blocked",
+    "veg_frac": 0.61
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2150.0,
+    "status": "blocked",
+    "veg_frac": 0.58
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2200.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2250.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2300.0,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2350.0,
+    "status": "blocked",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2400.0,
+    "status": "blocked",
+    "veg_frac": 0.75
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2450.0,
+    "status": "blocked",
+    "veg_frac": 0.77
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2500.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2550.0,
+    "status": "blocked",
+    "veg_frac": 0.64
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2600.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2650.0,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2700.0,
+    "status": "partial",
+    "veg_frac": 0.28
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2750.0,
+    "status": "partial",
+    "veg_frac": 0.26
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2800.0,
+    "status": "partial",
+    "veg_frac": 0.32
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2850.0,
+    "status": "partial",
+    "veg_frac": 0.42
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2900.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 2950.0,
+    "status": "blocked",
+    "veg_frac": 0.71
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 3000.0,
+    "status": "blocked",
+    "veg_frac": 0.69
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 3050.0,
+    "status": "blocked",
+    "veg_frac": 0.68
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 3100.0,
+    "status": "blocked",
+    "veg_frac": 0.78
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 3150.0,
+    "status": "partial",
+    "veg_frac": 0.42
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 3200.0,
+    "status": "partial",
+    "veg_frac": 0.43
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 0,
+    "chainage_m": 3250.0,
+    "status": "clear",
+    "veg_frac": 0.11
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 0.0,
+    "status": "blocked",
+    "veg_frac": 0.64
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 50.0,
+    "status": "blocked",
+    "veg_frac": 0.5
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 100.0,
+    "status": "partial",
+    "veg_frac": 0.44
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 150.0,
+    "status": "blocked",
+    "veg_frac": 0.5
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 200.0,
+    "status": "clear",
+    "veg_frac": 0.19
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 250.0,
+    "status": "partial",
+    "veg_frac": 0.21
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 300.0,
+    "status": "partial",
+    "veg_frac": 0.22
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 350.0,
+    "status": "blocked",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 400.0,
+    "status": "blocked",
+    "veg_frac": 0.48
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 450.0,
+    "status": "blocked",
+    "veg_frac": 0.49
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 500.0,
+    "status": "partial",
+    "veg_frac": 0.44
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 550.0,
+    "status": "partial",
+    "veg_frac": 0.3
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 600.0,
+    "status": "clear",
+    "veg_frac": 0.14
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 650.0,
+    "status": "clear",
+    "veg_frac": 0.19
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 700.0,
+    "status": "partial",
+    "veg_frac": 0.21
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 750.0,
+    "status": "clear",
+    "veg_frac": 0.15
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 800.0,
+    "status": "clear",
+    "veg_frac": 0.14
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 850.0,
+    "status": "clear",
+    "veg_frac": 0.17
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 900.0,
+    "status": "partial",
+    "veg_frac": 0.25
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 950.0,
+    "status": "partial",
+    "veg_frac": 0.3
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1000.0,
+    "status": "partial",
+    "veg_frac": 0.24
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1050.0,
+    "status": "partial",
+    "veg_frac": 0.29
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1100.0,
+    "status": "partial",
+    "veg_frac": 0.32
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1150.0,
+    "status": "blocked",
+    "veg_frac": 0.53
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1200.0,
+    "status": "partial",
+    "veg_frac": 0.35
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1250.0,
+    "status": "clear",
+    "veg_frac": 0.15
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1300.0,
+    "status": "clear",
+    "veg_frac": 0.11
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1350.0,
+    "status": "partial",
+    "veg_frac": 0.37
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1400.0,
+    "status": "clear",
+    "veg_frac": 0.18
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1450.0,
+    "status": "partial",
+    "veg_frac": 0.24
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1500.0,
+    "status": "partial",
+    "veg_frac": 0.3
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1550.0,
+    "status": "partial",
+    "veg_frac": 0.37
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1600.0,
+    "status": "blocked",
+    "veg_frac": 0.54
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1650.0,
+    "status": "partial",
+    "veg_frac": 0.25
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1700.0,
+    "status": "partial",
+    "veg_frac": 0.41
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1750.0,
+    "status": "blocked",
+    "veg_frac": 0.62
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1800.0,
+    "status": "blocked",
+    "veg_frac": 0.52
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1850.0,
+    "status": "blocked",
+    "veg_frac": 0.51
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1900.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 1950.0,
+    "status": "blocked",
+    "veg_frac": 0.49
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 2000.0,
+    "status": "blocked",
+    "veg_frac": 0.6
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 2050.0,
+    "status": "blocked",
+    "veg_frac": 0.83
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 2100.0,
+    "status": "blocked",
+    "veg_frac": 0.85
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 2150.0,
+    "status": "blocked",
+    "veg_frac": 0.84
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 2200.0,
+    "status": "blocked",
+    "veg_frac": 0.79
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 2250.0,
+    "status": "blocked",
+    "veg_frac": 0.57
+  },
+  {
+    "tile": "ATTANUR_3",
+    "feature": 1,
+    "chainage_m": 2300.0,
+    "status": "partial",
+    "veg_frac": 0.34
+  }
+]

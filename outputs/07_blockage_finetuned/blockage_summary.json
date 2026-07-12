@@ -1,0 +1,59 @@
+{
+  "scope": "cleaned_canal_only_fic_excluded",
+  "total_reaches": 54,
+  "total_length_m": 2820.8,
+  "clear_pct": 2.3,
+  "partial_pct": 0.0,
+  "blocked_pct": 97.7,
+  "blockage_types": {
+    "heavy_vegetation": 36,
+    "moderate_vegetation": 13,
+    "light_silt_like": 18,
+    "light_vegetation": 3,
+    "silt_like_deposit": 12
+  },
+  "per_mosaic": {
+    "ATTANUR_1": {
+      "reaches": 1,
+      "clear": 0,
+      "partial": 0,
+      "blocked": 1,
+      "blockage_types": {
+        "heavy_vegetation": 1
+      }
+    },
+    "ATTANUR_2": {
+      "reaches": 38,
+      "clear": 0,
+      "partial": 0,
+      "blocked": 38,
+      "blockage_types": {
+        "heavy_vegetation": 30,
+        "moderate_vegetation": 7,
+        "light_silt_like": 12,
+        "light_vegetation": 1,
+        "silt_like_deposit": 6
+      }
+    },
+    "ATTANUR_3": {
+      "reaches": 15,
+      "clear": 1,
+      "partial": 0,
+      "blocked": 14,
+      "blockage_types": {
+        "moderate_vegetation": 6,
+        "silt_like_deposit": 6,
+        "light_vegetation": 2,
+        "light_silt_like": 6,
+        "heavy_vegetation": 5
+      }
+    },
+    "ATTANUR_4": {
+      "reaches": 0,
+      "clear": 0,
+      "partial": 0,
+      "blocked": 0,
+      "blockage_types": {}
+    }
+  }
+}

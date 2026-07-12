@@ -1,0 +1,58 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Not Canal",
+      "points": [
+        [
+          7.308900523560226,
+          501.5497382198953
+        ],
+        [
+          484.79581151832457,
+          23.539267015706827
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "fic",
+      "points": [
+        [
+          46.5759162303665,
+          31.916230366492165
+        ],
+        [
+          65.94764397905762,
+          488.9842931937173
+        ],
+        [
+          119.87434554973824,
+          498.9319371727749
+        ],
+        [
+          109.40314136125654,
+          46.05235602094242
+        ],
+        [
+          81.13089005235604,
+          11.497382198952897
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "patch_0241.png",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}
