@@ -1,56 +1,107 @@
-# Water Bodies — clean project structure
+# Water Bodies — Farm-Pond Detection on Sentinel-2
 
-Two tracks, deliberately separate (different sensors, cannot be mixed):
-**(A)** farm-pond detection on high-res TLBC drone imagery, and
-**(B)** water-body detection on Sentinel-2 satellite tiles.
+Single model, single sensor. Detects farm ponds directly from Sentinel-2
+satellite imagery using the 180 hand-drawn pond labels, split 80/20 and
+overlaid on all 3 available Sentinel-2 tiles (so each pond contributes a
+training/test sample from every tile that covers it — both dry and wet
+season views).
+
+> Earlier iterations of this project tried a two-model approach (a
+> drone-imagery detector + a separate Sentinel/ESWD detector). That was
+> dropped in favour of the single Sentinel-2-only pipeline below — some
+> filenames/scripts from the old approach may still be referenced in old
+> notes, but the pipeline described here is what is actually in `code/`
+> and runnable end-to-end.
+
+## Results
+
+Trained U-Net (ResNet-34 encoder, ImageNet-pretrained) on 6-band Sentinel-2
+patches (B2, B3, B4, B8, B11, B12 @ 10 m), Dice + weighted BCE loss.
+
+| Metric | Train | Test (held-out ponds) |
+|---|---|---|
+| F1 | 0.809 | **0.739** |
+| IoU | 0.680 | 0.586 |
+| Precision | — | 0.660 |
+| Recall | — | 0.840 |
+| Ponds found (object-level) | 89% | **85%** (1155/1352) |
+
+Small train→test gap = the model generalises rather than memorising. Full
+report with figures: run `04_report.py` → `results/report.html`.
+
+## Pipeline
 
 ```
 Water-bodies/
 ├── data/
-│   ├── Farmponds/          # the 180 hand-drawn pond labels (Farmpond_D95.shp)
-│   ├── TLBC_pond/          # drone pond training dataset (dataset.npz)
-│   ├── external/           # ESWD internet water data (Sentinel-2, for track B)
-│   └── Sentinel-2/         # raw S2 tiles: June T43QGU, Dec T43QGU, Dec T43PGT
+│   ├── Farmponds/          180 hand-drawn pond labels (Farmpond_D95.shp) — ground truth
+│   ├── Sentinel-2/         Raw Sentinel-2 L2A tiles (.SAFE), NOT tracked in git (see below)
+│   ├── pond_dataset/       Built by 01_build_dataset.py: dataset.npz (2142 patches, 64x64, 6-band)
+│   ├── reference_ponds/    External reference pond/tank shapefiles (Bengaluru, SOI Raichur) — for comparison, not training
+│   └── training_pair/      Matched image+label pairs auto-built from open Sentinel-2 (see 07_make_training_pair.py)
 │
 ├── results/
-│   ├── pond_maps/          # ⭐ MARKED POND PICTURES — 108 ponds, each with
-│   │   ├── images/         #    outline + AREA + CIRCUMFERENCE (pond_0001.jpg ...)
-│   │   ├── pond_index.csv  #    id, area_m2, area_ha, circumference_m, lon, lat
-│   │   └── overview.png    #    montage of all 108
-│   │
-│   ├── TLBC_model/         # (A) trained pond detector (tlbc_pond_resnet34_best.pt)
-│   ├── tlbc_predictions.png#     detector output on unseen flights
-│   │
-│   ├── sentinel_predictions/   # ⭐ MODEL'S OWN DETECTIONS on the 3 S2 tiles
-│   │   └── <tile>/             #   June_T43QGU / Dec_T43QGU / Dec_T43PGT
-│   │       ├── overview_numbered.png  # whole tile: water bodies marked+numbered+legend
-│   │       ├── images/                # det_0001.jpg ... one per detection (area+circ)
-│   │       └── all_detections.csv     # EVERY detection: area + circumference
-│   │
-│   ├── D95_fulltile/           # (B) June T43QGU raw water_bodies.shp + check.png
-│   ├── D95_dec_QGU_fulltile/   # (B) Dec  T43QGU raw water_bodies.shp
-│   ├── D95_dec_PGT_fulltile/   # (B) Dec  T43PGT raw water_bodies.shp
-│   └── D95_model/          #     B5 water model used for the S2 inference
+│   ├── model/               pond_model.pt (weights) + norm.npz (normalisation stats) — NOT tracked in git
+│   ├── predictions/<tile>/  ponds.shp (detected ponds w/ area+circumference) + overview.png, per tile
+│   └── report.html          Generated report with metrics + example figure
 │
-├── code/                   # numbered pipeline scripts (10,16,22,23,24 are current)
-├── RESULTS.md              # full written record of methods + numbers
-└── README.md               # this file
+└── code/                    Run in this order (01 → 04); 05-07 are optional extras
+    ├── 01_build_dataset.py       Build the 6-band patch dataset (80/20 split by pond, across all 3 tiles)
+    ├── 02_train.py               Train the U-Net pond detector
+    ├── 03_inference.py           Run the trained model over each full Sentinel-2 tile -> ponds.shp
+    ├── 04_report.py              Build results/report.html
+    ├── 05_small_pond_images.py   Extra: marked images of the smallest detected ponds per tile
+    ├── 06_pond_images_range.py   Extra: marked images for a chosen size-rank range (e.g. rank 500-600)
+    └── 07_make_training_pair.py  Extra: pull a free Sentinel-2 scene + auto-extract a pond shapefile that
+                                  coincides with it exactly (for QGIS/exploration outside the Raichur AOI)
 ```
 
-## The two tracks
+## How to run
 
-**(A) Farm-pond detection — TLBC drone (the trustworthy one)**
-Ponds are hundreds of px at 0.5 m/px, clearly visible. Trained on ATTANUR_2/3
-flights, tested on SHAKAPUR + ATTANUR_1/4 (different flights). **F1 0.654,
-70% of ponds found.** Build: `22_make_tlbc_dataset.py` → `23_train_tlbc.py`.
+Requires: `numpy`, `rasterio`, `torch`, `segmentation_models_pytorch`, `scipy`,
+`opencv-python`, `pyshp` (`shapefile`), `matplotlib`.
 
-**(B) Water-body detection — Sentinel-2 (already inferred, 3 tiles)**
-Trained on ESWD internet water. Detects reservoirs/rivers well; too coarse for
-the small ponds. Each `*_fulltile/water_bodies.shp` = model detections with area.
-Run: `16_run_full_tile.py`.
+```bash
+# 1. Build the training dataset (needs data/Sentinel-2/*.SAFE + data/Farmponds/)
+python code/01_build_dataset.py
 
-## The pond deliverable you asked for
-`results/pond_maps/` — one drone picture per pond, outline drawn, **area (m²/ha)
-and circumference (m)** written on it, plus `pond_index.csv`. Built by
-`24_pond_maps_tlbc.py`. 108 ponds, total 31.2 ha, median 1,690 m² / 164 m.
-Where the outline sits on a green field, that pond was dry when the drone flew.
+# 2. Train the model (~40 epochs; writes results/model/pond_model.pt + norm.npz)
+python code/02_train.py 40
+
+# 3. Run inference on all 3 Sentinel-2 tiles -> results/predictions/<tile>/ponds.shp
+python code/03_inference.py 0.5      # 0.5 = detection probability threshold
+
+# 4. Build the HTML report
+python code/04_report.py
+```
+
+Optional extras (after step 3):
+
+```bash
+# Marked images of the 100 smallest detected ponds per tile, with area+circumference
+python code/05_small_pond_images.py 100
+
+# Marked images for a specific size-rank window (rank 1 = largest pond)
+python code/06_pond_images_range.py Dec_T43PGT 500 100
+
+# Build a fresh image+label pair from any open Sentinel-2 scene (bbox in lon/lat)
+python code/07_make_training_pair.py 76.8 13.0 77.2 13.4 tumkur
+```
+
+## Data not tracked in git
+
+Raw Sentinel-2 `.SAFE` products (`.jp2` bands, several hundred MB each) and
+trained model weights (`.pt`) are excluded via `.gitignore` — re-download the
+Sentinel-2 tiles from the Copernicus Data Space / earth-search STAC, then
+re-run steps 1–3 to regenerate the dataset and model locally.
+
+## Honest caveats
+
+- **Full-tile detection counts are noisy.** On the full 110×110 km tiles the
+  model flags 3,500–18,600 "ponds," including many small water/wet
+  look-alikes — especially on the wetter December tiles. The reliable number
+  is the held-out **per-pond test metric (F1 0.739, 85% found)**, not the raw
+  full-tile count.
+- **`results/sentinel_predictions/`** (if present) is leftover output from an
+  earlier version of the inference script and is not regenerated by the
+  current pipeline — ignore it in favour of `results/predictions/`.

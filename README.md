@@ -4,6 +4,10 @@
 
 This project uses deep learning and drone imagery to automatically detect **vegetation blockages**, **structural damage (cracks/erosion)**, and **silt accumulation** across the entire TLBC D95 canal network — replacing weeks of manual field surveys with a GPS-accurate AI analysis.
 
+> **Related project:** farm-pond detection from Sentinel-2 satellite imagery
+> lives in a separate sub-project — see [`Water-bodies/README.md`](Water-bodies/README.md)
+> for that pipeline, results (F1 0.739, 85% ponds found), and run instructions.
+
 ---
 
 ## Results Summary
