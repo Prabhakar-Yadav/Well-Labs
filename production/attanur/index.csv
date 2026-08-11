@@ -1,0 +1,192 @@
+id,area,canal,type,chainage_m,status,blockpct,damage,lon,lat,image
+66,ATTANUR_2,TLBC,main,3250.0,partial,10,,77.1058388,16.2203195,images/0066.jpg
+67,ATTANUR_2,TLBC,main,3300.0,partial,15,,77.1062836,16.2204577,images/0067.jpg
+68,ATTANUR_2,TLBC,main,3350.0,clear,0,,77.1066969,16.2206371,images/0068.jpg
+69,ATTANUR_2,TLBC,main,3400.0,partial,15,,77.1071079,16.2208445,images/0069.jpg
+70,ATTANUR_2,TLBC,main,3450.0,partial,18,,77.1075199,16.2210641,images/0070.jpg
+155,ATTANUR_2,Distributary-95,distributary,2250.0,partial,34,,77.1059704,16.20892,images/0155.jpg
+156,ATTANUR_2,Distributary-95,distributary,2300.0,moderate,48,,77.106365,16.2086783,images/0156.jpg
+157,ATTANUR_2,Distributary-95,distributary,2350.0,partial,27,,77.1067581,16.2084237,images/0157.jpg
+158,ATTANUR_2,Distributary-95,distributary,2400.0,partial,11,,77.1070713,16.2080956,images/0158.jpg
+159,ATTANUR_2,Distributary-95,distributary,2450.0,partial,7,,77.107204,16.2076947,images/0159.jpg
+160,ATTANUR_2,Distributary-95,distributary,2500.0,partial,40,,77.1072541,16.2072473,images/0160.jpg
+161,ATTANUR_2,Distributary-95,distributary,2550.0,moderate,44,,77.1073039,16.2068078,images/0161.jpg
+162,ATTANUR_2,Distributary-95,distributary,2600.0,partial,21,,77.1073603,16.2063668,images/0162.jpg
+163,ATTANUR_2,Distributary-95,distributary,2650.0,partial,26,,77.1074131,16.2059204,images/0163.jpg
+164,ATTANUR_2,Distributary-95,distributary,2700.0,partial,12,,77.1074629,16.2054692,images/0164.jpg
+165,ATTANUR_2,Distributary-95,distributary,2750.0,partial,12,,77.1075168,16.2050272,images/0165.jpg
+166,ATTANUR_2,Distributary-95,distributary,2800.0,partial,17,,77.1075735,16.2045724,images/0166.jpg
+167,ATTANUR_2,Distributary-95,distributary,2850.0,partial,10,,77.1076212,16.2041185,images/0167.jpg
+168,ATTANUR_2,Distributary-95,distributary,2900.0,partial,13,,77.1076506,16.2036721,images/0168.jpg
+169,ATTANUR_2,Distributary-95,distributary,2950.0,clear,2,,77.1076668,16.2032223,images/0169.jpg
+170,ATTANUR_2,Distributary-95,distributary,3000.0,clear,4,,77.1076801,16.2027732,images/0170.jpg
+171,ATTANUR_2,Distributary-95,distributary,3050.0,moderate,49,,77.1076933,16.2023255,images/0171.jpg
+172,ATTANUR_2,Distributary-95,distributary,3100.0,partial,27,,77.107713,16.2018806,images/0172.jpg
+173,ATTANUR_2,Distributary-95,distributary,3150.0,partial,6,,77.1077216,16.2014324,images/0173.jpg
+174,ATTANUR_2,Distributary-95,distributary,3200.0,partial,19,,77.1077339,16.2009832,images/0174.jpg
+175,ATTANUR_2,Distributary-95,distributary,3250.0,partial,13,,77.1077477,16.2005303,images/0175.jpg
+176,ATTANUR_2,Distributary-95,distributary,3300.0,partial,14,,77.1077628,16.2000812,images/0176.jpg
+177,ATTANUR_2,Distributary-95,distributary,3350.0,partial,12,,77.1077744,16.1996314,images/0177.jpg
+178,ATTANUR_2,Distributary-95,distributary,3400.0,partial,13,,77.1077824,16.1991804,images/0178.jpg
+179,ATTANUR_2,Distributary-95,distributary,3450.0,partial,12,,77.1077921,16.1987319,images/0179.jpg
+180,ATTANUR_2,Distributary-95,distributary,3500.0,partial,39,,77.1078115,16.1982836,images/0180.jpg
+181,ATTANUR_2,Distributary-95,distributary,3550.0,moderate,60,,77.1078315,16.1978289,images/0181.jpg
+182,ATTANUR_2,Distributary-95,distributary,3600.0,moderate,70,,77.1078939,16.1973745,images/0182.jpg
+183,ATTANUR_2,Distributary-95,distributary,3650.0,full,89,,77.1080378,16.1969468,images/0183.jpg
+184,ATTANUR_2,Distributary-95,distributary,3700.0,moderate,53,,77.1082352,16.1965213,images/0184.jpg
+185,ATTANUR_2,Distributary-95,distributary,3750.0,partial,13,,77.1084265,16.196118,images/0185.jpg
+186,ATTANUR_2,Distributary-95,distributary,3800.0,clear,4,Structural damage,77.1086276,16.1956901,images/0186.jpg
+187,ATTANUR_2,Distributary-95,distributary,3850.0,partial,8,Structural damage,77.1088183,16.1952831,images/0187.jpg
+188,ATTANUR_2,Distributary-95,distributary,3900.0,partial,9,,77.1090119,16.1948749,images/0188.jpg
+189,ATTANUR_2,Distributary-95,distributary,3950.0,clear,4,,77.1092059,16.1944565,images/0189.jpg
+190,ATTANUR_2,Distributary-95,distributary,4000.0,clear,4,Structural damage,77.1094013,16.1940371,images/0190.jpg
+191,ATTANUR_2,Distributary-95,distributary,4050.0,clear,4,,77.1095928,16.19362,images/0191.jpg
+192,ATTANUR_2,Distributary-95,distributary,4100.0,partial,6,Structural damage,77.1097826,16.1932065,images/0192.jpg
+193,ATTANUR_2,Distributary-95,distributary,4150.0,clear,4,,77.1099616,16.192788,images/0193.jpg
+194,ATTANUR_2,Distributary-95,distributary,4200.0,partial,17,,77.110068,16.192357,images/0194.jpg
+195,ATTANUR_2,Distributary-95,distributary,4250.0,partial,20,,77.1100961,16.1919072,images/0195.jpg
+196,ATTANUR_2,Distributary-95,distributary,4300.0,partial,19,,77.1101238,16.1914632,images/0196.jpg
+197,ATTANUR_2,Distributary-95,distributary,4350.0,partial,31,,77.1101527,16.191017,images/0197.jpg
+198,ATTANUR_2,Distributary-95,distributary,4400.0,partial,27,,77.1101756,16.1905676,images/0198.jpg
+199,ATTANUR_2,Distributary-95,distributary,4450.0,clear,1,Structural damage,77.1102036,16.1901126,images/0199.jpg
+200,ATTANUR_2,Distributary-95,distributary,4500.0,clear,2,Structural damage,77.1102321,16.1896665,images/0200.jpg
+201,ATTANUR_2,Distributary-95,distributary,4550.0,partial,13,,77.1102615,16.1892203,images/0201.jpg
+202,ATTANUR_2,Distributary-95,distributary,4600.0,clear,3,Structural damage,77.1102913,16.1887716,images/0202.jpg
+203,ATTANUR_2,Distributary-95,distributary,4650.0,partial,8,,77.1103185,16.1883215,images/0203.jpg
+204,ATTANUR_2,Distributary-95,distributary,4700.0,partial,9,,77.1103416,16.1878724,images/0204.jpg
+205,ATTANUR_2,Distributary-95,distributary,4750.0,partial,12,,77.1103643,16.1874228,images/0205.jpg
+206,ATTANUR_2,Distributary-95,distributary,4800.0,partial,9,,77.1103886,16.1869739,images/0206.jpg
+207,ATTANUR_2,Distributary-95,distributary,4850.0,partial,14,,77.1104202,16.1865257,images/0207.jpg
+208,ATTANUR_2,Distributary-95,distributary,4900.0,partial,13,,77.1104517,16.1860817,images/0208.jpg
+209,ATTANUR_2,Distributary-95,distributary,4950.0,partial,7,,77.1104763,16.1856319,images/0209.jpg
+210,ATTANUR_2,Distributary-95,distributary,5000.0,clear,3,Structural damage,77.1105044,16.1851855,images/0210.jpg
+211,ATTANUR_2,Distributary-95,distributary,5050.0,partial,12,,77.1105499,16.1847262,images/0211.jpg
+212,ATTANUR_2,Distributary-95,distributary,5100.0,partial,29,Structural damage,77.1106431,16.1842869,images/0212.jpg
+213,ATTANUR_2,Distributary-95,distributary,5150.0,partial,12,,77.1107591,16.1838459,images/0213.jpg
+214,ATTANUR_2,Distributary-95,distributary,5200.0,partial,9,,77.1108714,16.1834094,images/0214.jpg
+215,ATTANUR_2,Distributary-95,distributary,5250.0,partial,18,,77.110986,16.182978,images/0215.jpg
+216,ATTANUR_2,Distributary-95,distributary,5300.0,partial,20,,77.1111009,16.1825479,images/0216.jpg
+217,ATTANUR_2,Distributary-95,distributary,5350.0,partial,14,,77.1112142,16.1821138,images/0217.jpg
+218,ATTANUR_2,Distributary-95,distributary,5400.0,partial,24,,77.1113207,16.1816857,images/0218.jpg
+219,ATTANUR_2,Distributary-95,distributary,5450.0,partial,36,,77.1114269,16.1812671,images/0219.jpg
+220,ATTANUR_2,Distributary-95,distributary,5500.0,partial,35,,77.1115387,16.1808329,images/0220.jpg
+221,ATTANUR_2,Distributary-95,distributary,5550.0,clear,2,,77.1117084,16.180341,images/0221.jpg
+222,ATTANUR_2,Distributary-95,distributary,5600.0,clear,0,,77.1119087,16.1799349,images/0222.jpg
+223,ATTANUR_2,Distributary-95,distributary,5650.0,clear,1,,77.1121083,16.179533,images/0223.jpg
+224,ATTANUR_2,Distributary-95,distributary,5700.0,clear,3,,77.1123211,16.1791267,images/0224.jpg
+225,ATTANUR_2,Distributary-95,distributary,5750.0,clear,2,,77.1125231,16.1787258,images/0225.jpg
+226,ATTANUR_2,Distributary-95,distributary,5800.0,clear,4,,77.1127253,16.1783224,images/0226.jpg
+227,ATTANUR_2,Distributary-95,distributary,5850.0,clear,2,,77.1129381,16.1779124,images/0227.jpg
+228,ATTANUR_2,Distributary-95,distributary,5900.0,partial,32,Structural damage,77.1131469,16.1775007,images/0228.jpg
+229,ATTANUR_2,Distributary-95,distributary,5950.0,partial,20,,77.1133466,16.1770904,images/0229.jpg
+230,ATTANUR_2,Distributary-95,distributary,6000.0,partial,27,,77.1135575,16.1766842,images/0230.jpg
+231,ATTANUR_2,Distributary-95,distributary,6050.0,partial,14,,77.1137638,16.1762843,images/0231.jpg
+232,ATTANUR_2,Distributary-95,distributary,6100.0,partial,29,,77.1139656,16.1758825,images/0232.jpg
+233,ATTANUR_2,Distributary-95,distributary,6150.0,partial,28,,77.1141582,16.1754717,images/0233.jpg
+234,ATTANUR_2,Distributary-95,distributary,6200.0,partial,32,Structural damage,77.1142714,16.1750182,images/0234.jpg
+235,ATTANUR_2,Distributary-95,distributary,6250.0,partial,35,,77.1141952,16.1745827,images/0235.jpg
+236,ATTANUR_2,Distributary-95,distributary,6300.0,partial,29,Structural damage,77.1140549,16.1741603,images/0236.jpg
+237,ATTANUR_2,Distributary-95,distributary,6350.0,moderate,54,,77.1139045,16.1737316,images/0237.jpg
+238,ATTANUR_2,Distributary-95,distributary,6400.0,moderate,43,Structural damage,77.1137659,16.1733115,images/0238.jpg
+239,ATTANUR_2,Distributary-95,distributary,6450.0,partial,32,,77.1136186,16.1728836,images/0239.jpg
+240,ATTANUR_2,Distributary-95,distributary,6500.0,moderate,70,,77.113473,16.1724571,images/0240.jpg
+241,ATTANUR_2,Distributary-95,distributary,6550.0,moderate,46,,77.1133254,16.1720308,images/0241.jpg
+242,ATTANUR_2,Distributary-95,distributary,6600.0,moderate,60,,77.1131762,16.1716048,images/0242.jpg
+243,ATTANUR_2,Distributary-95,distributary,6650.0,partial,11,,77.113031,16.1711766,images/0243.jpg
+244,ATTANUR_2,Distributary-95,distributary,6700.0,partial,28,,77.1128922,16.1707542,images/0244.jpg
+245,ATTANUR_2,Distributary-95,distributary,6750.0,moderate,51,,77.1127494,16.1703329,images/0245.jpg
+246,ATTANUR_2,Distributary-95,distributary,6800.0,partial,40,,77.1126036,16.1699065,images/0246.jpg
+247,ATTANUR_2,Distributary-95,distributary,6850.0,moderate,46,,77.1124606,16.1694752,images/0247.jpg
+248,ATTANUR_2,Distributary-95,distributary,6900.0,moderate,43,,77.1123194,16.1690563,images/0248.jpg
+249,ATTANUR_2,Distributary-95,distributary,6950.0,moderate,47,Structural damage,77.1121804,16.1686342,images/0249.jpg
+250,ATTANUR_2,Distributary-95,distributary,7000.0,partial,33,Structural damage,77.1120653,16.168132,images/0250.jpg
+251,ATTANUR_2,Distributary-95,distributary,7050.0,moderate,46,Structural damage,77.1120377,16.1676862,images/0251.jpg
+252,ATTANUR_2,Distributary-95,distributary,7100.0,moderate,62,Structural damage,77.1120137,16.1672439,images/0252.jpg
+253,ATTANUR_2,Distributary-95,distributary,7150.0,moderate,48,Structural damage,77.1119881,16.1667995,images/0253.jpg
+254,ATTANUR_2,Distributary-95,distributary,7200.0,moderate,56,,77.1119628,16.1663501,images/0254.jpg
+45,ATTANUR_3,TLBC,main,2200.0,clear,2,,77.0972551,16.2241398,images/0045.jpg
+46,ATTANUR_3,TLBC,main,2250.0,clear,0,,77.0977087,16.2240579,images/0046.jpg
+47,ATTANUR_3,TLBC,main,2300.0,partial,10,,77.09816,16.2239683,images/0047.jpg
+48,ATTANUR_3,TLBC,main,2350.0,partial,39,,77.0985845,16.2238497,images/0048.jpg
+49,ATTANUR_3,TLBC,main,2400.0,partial,8,,77.0990455,16.2236454,images/0049.jpg
+50,ATTANUR_3,TLBC,main,2450.0,moderate,50,Structural damage,77.0994319,16.223407,images/0050.jpg
+51,ATTANUR_3,TLBC,main,2500.0,partial,20,Structural damage,77.0998048,16.2231447,images/0051.jpg
+52,ATTANUR_3,TLBC,main,2550.0,partial,25,Structural damage,77.1001841,16.2228738,images/0052.jpg
+53,ATTANUR_3,TLBC,main,2600.0,clear,3,,77.1005628,16.2226127,images/0053.jpg
+54,ATTANUR_3,TLBC,main,2650.0,clear,1,,77.1009271,16.2223567,images/0054.jpg
+55,ATTANUR_3,TLBC,main,2700.0,clear,1,,77.1012876,16.2221054,images/0055.jpg
+56,ATTANUR_3,TLBC,main,2750.0,clear,0,,77.1016579,16.2218458,images/0056.jpg
+57,ATTANUR_3,TLBC,main,2800.0,clear,0,,77.1020311,16.2215883,images/0057.jpg
+58,ATTANUR_3,TLBC,main,2850.0,clear,0,,77.1024094,16.2213262,images/0058.jpg
+59,ATTANUR_3,TLBC,main,2900.0,clear,0,,77.1027887,16.2210555,images/0059.jpg
+60,ATTANUR_3,TLBC,main,2950.0,clear,0,,77.1031663,16.2207921,images/0060.jpg
+61,ATTANUR_3,TLBC,main,3000.0,clear,0,,77.1035648,16.2205619,images/0061.jpg
+62,ATTANUR_3,TLBC,main,3050.0,clear,0,,77.1039959,16.2203873,images/0062.jpg
+63,ATTANUR_3,TLBC,main,3100.0,partial,10,,77.1044434,16.2202697,images/0063.jpg
+64,ATTANUR_3,TLBC,main,3150.0,clear,0,,77.1048984,16.220217,images/0064.jpg
+65,ATTANUR_3,TLBC,main,3200.0,partial,15,,77.1053736,16.2202323,images/0065.jpg
+113,ATTANUR_3,Distributary-95,distributary,150.0,partial,12,,77.099222,16.2230734,images/0113.jpg
+114,ATTANUR_3,Distributary-95,distributary,200.0,partial,40,,77.0989529,16.22271,images/0114.jpg
+115,ATTANUR_3,Distributary-95,distributary,250.0,partial,35,,77.0986874,16.2223501,images/0115.jpg
+116,ATTANUR_3,Distributary-95,distributary,300.0,partial,25,,77.0984928,16.2219233,images/0116.jpg
+117,ATTANUR_3,Distributary-95,distributary,350.0,partial,26,,77.0985446,16.2214884,images/0117.jpg
+118,ATTANUR_3,Distributary-95,distributary,400.0,partial,17,,77.098667,16.2210527,images/0118.jpg
+119,ATTANUR_3,Distributary-95,distributary,450.0,clear,2,,77.0987849,16.2206161,images/0119.jpg
+120,ATTANUR_3,Distributary-95,distributary,500.0,partial,14,,77.0989023,16.2201771,images/0120.jpg
+121,ATTANUR_3,Distributary-95,distributary,550.0,partial,7,,77.0990197,16.2197399,images/0121.jpg
+122,ATTANUR_3,Distributary-95,distributary,600.0,clear,2,,77.0991293,16.2192992,images/0122.jpg
+123,ATTANUR_3,Distributary-95,distributary,650.0,partial,15,,77.0991067,16.2188766,images/0123.jpg
+124,ATTANUR_3,Distributary-95,distributary,700.0,partial,8,,77.0988745,16.2184965,images/0124.jpg
+125,ATTANUR_3,Distributary-95,distributary,750.0,clear,1,,77.0985643,16.2181733,images/0125.jpg
+126,ATTANUR_3,Distributary-95,distributary,800.0,partial,9,,77.0982512,16.2178406,images/0126.jpg
+127,ATTANUR_3,Distributary-95,distributary,850.0,clear,5,,77.097978,16.2174807,images/0127.jpg
+128,ATTANUR_3,Distributary-95,distributary,900.0,partial,6,,77.0978493,16.217071,images/0128.jpg
+129,ATTANUR_3,Distributary-95,distributary,950.0,partial,13,,77.0978899,16.2166008,images/0129.jpg
+130,ATTANUR_3,Distributary-95,distributary,1000.0,partial,7,,77.0979413,16.2161511,images/0130.jpg
+131,ATTANUR_3,Distributary-95,distributary,1050.0,clear,1,Structural damage,77.0979914,16.2157004,images/0131.jpg
+132,ATTANUR_3,Distributary-95,distributary,1100.0,clear,3,,77.0980408,16.2152514,images/0132.jpg
+133,ATTANUR_3,Distributary-95,distributary,1150.0,partial,9,,77.0980894,16.2148022,images/0133.jpg
+134,ATTANUR_3,Distributary-95,distributary,1200.0,partial,7,,77.0981396,16.2143586,images/0134.jpg
+135,ATTANUR_3,Distributary-95,distributary,1250.0,clear,2,,77.0982635,16.2139357,images/0135.jpg
+136,ATTANUR_3,Distributary-95,distributary,1300.0,clear,4,,77.0985293,16.2135843,images/0136.jpg
+137,ATTANUR_3,Distributary-95,distributary,1350.0,clear,2,,77.0989174,16.2133039,images/0137.jpg
+138,ATTANUR_3,Distributary-95,distributary,1400.0,clear,1,,77.0993138,16.2130583,images/0138.jpg
+139,ATTANUR_3,Distributary-95,distributary,1450.0,clear,5,,77.0996929,16.2128191,images/0139.jpg
+140,ATTANUR_3,Distributary-95,distributary,1500.0,clear,4,,77.100087,16.2125748,images/0140.jpg
+141,ATTANUR_3,Distributary-95,distributary,1550.0,partial,7,,77.1004786,16.2123321,images/0141.jpg
+142,ATTANUR_3,Distributary-95,distributary,1600.0,partial,9,,77.1008704,16.2120953,images/0142.jpg
+143,ATTANUR_3,Distributary-95,distributary,1650.0,clear,3,,77.1012588,16.2118539,images/0143.jpg
+144,ATTANUR_3,Distributary-95,distributary,1700.0,clear,4,,77.1016445,16.2116132,images/0144.jpg
+145,ATTANUR_3,Distributary-95,distributary,1750.0,clear,5,,77.1020372,16.2113718,images/0145.jpg
+146,ATTANUR_3,Distributary-95,distributary,1800.0,clear,2,,77.1024317,16.2111279,images/0146.jpg
+147,ATTANUR_3,Distributary-95,distributary,1850.0,partial,8,,77.1028222,16.2108827,images/0147.jpg
+148,ATTANUR_3,Distributary-95,distributary,1900.0,partial,12,,77.1032104,16.2106359,images/0148.jpg
+149,ATTANUR_3,Distributary-95,distributary,1950.0,clear,0,,77.1035954,16.2104015,images/0149.jpg
+150,ATTANUR_3,Distributary-95,distributary,2000.0,clear,1,,77.103991,16.210155,images/0150.jpg
+151,ATTANUR_3,Distributary-95,distributary,2050.0,clear,3,,77.1043811,16.2099095,images/0151.jpg
+152,ATTANUR_3,Distributary-95,distributary,2100.0,clear,2,,77.1047682,16.2096704,images/0152.jpg
+153,ATTANUR_3,Distributary-95,distributary,2150.0,clear,2,,77.1052055,16.2094066,images/0153.jpg
+154,ATTANUR_3,Distributary-95,distributary,2200.0,partial,16,,77.1055878,16.2091588,images/0154.jpg
+255,SHAKAPUR,Distributary-95,distributary,7250.0,moderate,64,,77.1119502,16.1659056,images/0255.jpg
+256,SHAKAPUR,Distributary-95,distributary,7300.0,moderate,42,,77.1119249,16.1654524,images/0256.jpg
+257,SHAKAPUR,Distributary-95,distributary,7350.0,moderate,54,Structural damage,77.1118984,16.1650065,images/0257.jpg
+258,SHAKAPUR,Distributary-95,distributary,7400.0,moderate,43,,77.1118744,16.1645619,images/0258.jpg
+259,SHAKAPUR,Distributary-95,distributary,7450.0,moderate,62,,77.1118497,16.1641187,images/0259.jpg
+260,SHAKAPUR,Distributary-95,distributary,7500.0,full,76,,77.1118247,16.1636599,images/0260.jpg
+261,SHAKAPUR,Distributary-95,distributary,7550.0,full,74,Structural damage,77.1118018,16.1632129,images/0261.jpg
+262,SHAKAPUR,Distributary-95,distributary,7600.0,full,75,,77.1117723,16.1627589,images/0262.jpg
+263,SHAKAPUR,Distributary-95,distributary,7650.0,moderate,57,,77.1117471,16.1623087,images/0263.jpg
+264,SHAKAPUR,Distributary-95,distributary,7700.0,moderate,52,,77.1117229,16.1618592,images/0264.jpg
+265,SHAKAPUR,Distributary-95,distributary,7750.0,partial,39,,77.1116961,16.1614129,images/0265.jpg
+266,SHAKAPUR,Distributary-95,distributary,7800.0,moderate,44,,77.1116704,16.1609657,images/0266.jpg
+267,SHAKAPUR,Distributary-95,distributary,7850.0,moderate,45,,77.1116457,16.1605238,images/0267.jpg
+268,SHAKAPUR,Distributary-95,distributary,7900.0,full,73,,77.1116208,16.1600683,images/0268.jpg
+269,SHAKAPUR,Distributary-95,distributary,7950.0,moderate,58,,77.111597,16.1596186,images/0269.jpg
+270,SHAKAPUR,Distributary-95,distributary,8000.0,moderate,53,,77.111568,16.15916,images/0270.jpg
+271,SHAKAPUR,Distributary-95,distributary,8050.0,full,71,,77.111548,16.1587235,images/0271.jpg
+272,SHAKAPUR,Distributary-95,distributary,8100.0,moderate,56,,77.1115217,16.1582749,images/0272.jpg
+273,SHAKAPUR,Distributary-95,distributary,8107.1,moderate,53,Structural damage,77.1115198,16.1577466,images/0273.jpg
+274,SHAKAPUR,Distributary-95,distributary,8157.1,partial,34,,77.1116065,16.1573017,images/0274.jpg
+275,SHAKAPUR,Distributary-95,distributary,8207.1,partial,34,,77.111689,16.1570626,images/0275.jpg
+276,SHAKAPUR,Distributary-95,distributary,8257.1,full,75,,77.1117695,16.156809,images/0276.jpg
+277,SHAKAPUR,Distributary-95,distributary,8307.1,partial,38,,77.1119174,16.1563833,images/0277.jpg

@@ -1,0 +1,571 @@
+id,area,canal,type,chainage_m,status,blockage_pct,struct_damage,lon,lat,image
+1,NRBC_D10_Survey_1,Main-Canal,main,0.0,clear,1,No,76.7596308,16.2971276,images/0001.jpg
+2,NRBC_D10_Survey_1,Main-Canal,main,35.0,clear,0,No,76.7598709,16.2969158,images/0002.jpg
+3,NRBC_D10_Survey_1,Main-Canal,main,70.0,clear,0,No,76.7601359,16.2967307,images/0003.jpg
+4,NRBC_D10_Survey_1,Main-Canal,main,105.0,clear,1,No,76.760407,16.2965536,images/0004.jpg
+5,NRBC_D10_Survey_1,Main-Canal,main,140.0,clear,3,No,76.7606795,16.296378,images/0005.jpg
+6,NRBC_D10_Survey_1,Main-Canal,main,175.0,clear,2,No,76.7609521,16.2962028,images/0006.jpg
+7,NRBC_D10_Survey_1,Main-Canal,main,210.0,clear,3,No,76.7612267,16.2960304,images/0007.jpg
+8,NRBC_D10_Survey_1,Main-Canal,main,245.0,clear,4,No,76.7614944,16.2958482,images/0008.jpg
+9,NRBC_D10_Survey_1,Main-Canal,main,280.0,clear,3,No,76.7617598,16.2956631,images/0009.jpg
+10,NRBC_D10_Survey_1,Main-Canal,main,315.0,clear,2,No,76.7620245,16.2954771,images/0010.jpg
+11,NRBC_D10_Survey_1,Main-Canal,main,350.0,clear,5,No,76.7622906,16.2952927,images/0011.jpg
+12,NRBC_D10_Survey_1,Main-Canal,main,385.0,clear,4,No,76.7625568,16.2951084,images/0012.jpg
+13,NRBC_D10_Survey_1,Main-Canal,main,420.0,clear,2,No,76.7628227,16.2949239,images/0013.jpg
+14,NRBC_D10_Survey_1,Main-Canal,main,455.0,clear,0,No,76.763094,16.2947459,images/0014.jpg
+15,NRBC_D10_Survey_1,Main-Canal,main,490.0,clear,1,No,76.7633546,16.2945548,images/0015.jpg
+16,NRBC_D10_Survey_1,Main-Canal,main,525.0,clear,2,No,76.763615,16.2943631,images/0016.jpg
+17,NRBC_D10_Survey_1,Main-Canal,main,560.0,clear,3,No,76.7638474,16.2941446,images/0017.jpg
+18,NRBC_D10_Survey_1,Main-Canal,main,595.0,clear,2,No,76.7640088,16.2938778,images/0018.jpg
+19,NRBC_D10_Survey_1,Main-Canal,main,630.0,clear,2,No,76.7640869,16.2935744,images/0019.jpg
+20,NRBC_D10_Survey_1,Main-Canal,main,665.0,clear,1,No,76.7641111,16.2932602,images/0020.jpg
+21,NRBC_D10_Survey_1,Main-Canal,main,700.0,clear,1,No,76.7641144,16.2929442,images/0021.jpg
+22,NRBC_D10_Survey_1,Main-Canal,main,735.0,clear,0,No,76.7641184,16.2926279,images/0022.jpg
+23,NRBC_D10_Survey_1,Main-Canal,main,770.0,clear,1,No,76.7641223,16.2923116,images/0023.jpg
+24,NRBC_D10_Survey_1,Main-Canal,main,805.0,clear,0,No,76.7641222,16.2919955,images/0024.jpg
+25,NRBC_D10_Survey_1,Main-Canal,main,840.0,clear,5,No,76.7641228,16.2916792,images/0025.jpg
+26,NRBC_D10_Survey_1,Main-Canal,main,875.0,clear,3,No,76.7641229,16.2913629,images/0026.jpg
+27,NRBC_D10_Survey_1,Main-Canal,main,910.0,clear,2,No,76.764122,16.2910468,images/0027.jpg
+28,NRBC_D10_Survey_1,Main-Canal,main,945.0,clear,2,No,76.7641251,16.2907304,images/0028.jpg
+29,NRBC_D10_Survey_1,Main-Canal,main,980.0,clear,2,No,76.7641246,16.2904142,images/0029.jpg
+30,NRBC_D10_Survey_1,Main-Canal,main,1015.0,clear,2,No,76.764121,16.2900979,images/0030.jpg
+31,NRBC_D10_Survey_1,Main-Canal,main,1050.0,clear,3,No,76.7641179,16.2897816,images/0031.jpg
+32,NRBC_D10_Survey_1,Main-Canal,main,1085.0,clear,4,No,76.7641361,16.2894668,images/0032.jpg
+33,NRBC_D10_Survey_1,Main-Canal,main,1120.0,clear,3,No,76.7642164,16.2891639,images/0033.jpg
+34,NRBC_D10_Survey_1,Main-Canal,main,1155.0,clear,0,No,76.764384,16.288898,images/0034.jpg
+35,NRBC_D10_Survey_1,Main-Canal,main,1190.0,clear,1,No,76.7646067,16.2886675,images/0035.jpg
+36,NRBC_D10_Survey_1,Main-Canal,main,1225.0,clear,1,No,76.7648379,16.2884433,images/0036.jpg
+37,NRBC_D10_Survey_1,Main-Canal,main,1260.0,clear,2,No,76.7650787,16.2882289,images/0037.jpg
+38,NRBC_D10_Survey_1,Main-Canal,main,1295.0,clear,2,No,76.7653195,16.2880146,images/0038.jpg
+39,NRBC_D10_Survey_1,Main-Canal,main,1330.0,clear,2,No,76.7655692,16.2878107,images/0039.jpg
+40,NRBC_D10_Survey_1,Main-Canal,main,1365.0,clear,1,No,76.7658482,16.2876548,images/0040.jpg
+41,NRBC_D10_Survey_1,Main-Canal,main,1400.0,clear,2,No,76.7661621,16.2875771,images/0041.jpg
+42,NRBC_D10_Survey_1,Main-Canal,main,1435.0,clear,3,No,76.7664861,16.2875308,images/0042.jpg
+43,NRBC_D10_Survey_1,Main-Canal,main,1470.0,clear,4,No,76.76681,16.2874848,images/0043.jpg
+44,NRBC_D10_Survey_1,Main-Canal,main,1505.0,clear,4,No,76.7671338,16.2874376,images/0044.jpg
+45,NRBC_D10_Survey_1,Main-Canal,main,1540.0,clear,3,No,76.7674577,16.2873908,images/0045.jpg
+46,NRBC_D10_Survey_1,Main-Canal,main,1575.0,clear,1,No,76.7677813,16.2873422,images/0046.jpg
+47,NRBC_D10_Survey_1,Main-Canal,main,1610.0,clear,3,No,76.7681054,16.2872981,images/0047.jpg
+48,NRBC_D10_Survey_1,Main-Canal,main,1645.0,partial,7,No,76.7684297,16.2872543,images/0048.jpg
+49,NRBC_D10_Survey_1,Main-Canal,main,1680.0,clear,4,No,76.7687543,16.287212,images/0049.jpg
+50,NRBC_D10_Survey_1,Main-Canal,main,1715.0,clear,2,No,76.7690788,16.2871699,images/0050.jpg
+51,NRBC_D10_Survey_1,Main-Canal,main,1750.0,clear,1,No,76.7694035,16.2871284,images/0051.jpg
+52,NRBC_D10_Survey_1,Main-Canal,main,1785.0,clear,0,No,76.7697277,16.2870846,images/0052.jpg
+53,NRBC_D10_Survey_1,Main-Canal,main,1820.0,clear,1,No,76.770052,16.2870406,images/0053.jpg
+54,NRBC_D10_Survey_1,Main-Canal,main,1855.0,clear,3,No,76.770376,16.2869952,images/0054.jpg
+55,NRBC_D10_Survey_1,Main-Canal,main,1890.0,clear,2,No,76.7706999,16.286948,images/0055.jpg
+56,NRBC_D10_Survey_1,Main-Canal,main,1925.0,clear,3,No,76.7710241,16.2869037,images/0056.jpg
+57,NRBC_D10_Survey_1,Main-Canal,main,1960.0,clear,3,No,76.7713484,16.2868593,images/0057.jpg
+58,NRBC_D10_Survey_1,Main-Canal,main,1995.0,clear,3,No,76.7716728,16.2868162,images/0058.jpg
+59,NRBC_D10_Survey_1,Main-Canal,main,2030.0,clear,2,No,76.7719971,16.2867738,images/0059.jpg
+60,NRBC_D10_Survey_1,Main-Canal,main,2065.0,clear,0,No,76.7723215,16.2867299,images/0060.jpg
+61,NRBC_D10_Survey_1,Main-Canal,main,2100.0,clear,0,No,76.7726457,16.2866857,images/0061.jpg
+62,NRBC_D10_Survey_1,Main-Canal,main,2135.0,clear,0,No,76.7729699,16.2866417,images/0062.jpg
+63,NRBC_D10_Survey_1,Main-Canal,main,2170.0,clear,0,No,76.7732942,16.2865974,images/0063.jpg
+64,NRBC_D10_Survey_1,Main-Canal,main,2205.0,clear,0,No,76.7736186,16.2865545,images/0064.jpg
+65,NRBC_D10_Survey_1,Main-Canal,main,2240.0,clear,1,No,76.7739429,16.2865113,images/0065.jpg
+66,NRBC_D10_Survey_1,Main-Canal,main,2275.0,clear,0,No,76.7742676,16.2864695,images/0066.jpg
+67,NRBC_D10_Survey_1,Main-Canal,main,2310.0,clear,0,No,76.774592,16.286426,images/0067.jpg
+68,NRBC_D10_Survey_1,Main-Canal,main,2345.0,clear,0,No,76.7749163,16.2863823,images/0068.jpg
+69,NRBC_D10_Survey_1,Main-Canal,main,2380.0,clear,0,No,76.7752407,16.2863383,images/0069.jpg
+70,NRBC_D10_Survey_1,Main-Canal,main,2415.0,clear,1,No,76.7755637,16.2862875,images/0070.jpg
+71,NRBC_D10_Survey_1,Main-Canal,main,2450.0,clear,1,No,76.7758865,16.2862348,images/0071.jpg
+72,NRBC_D10_Survey_1,Main-Canal,main,2485.0,clear,1,No,76.7762109,16.2861919,images/0072.jpg
+73,NRBC_D10_Survey_1,Main-Canal,main,2520.0,clear,0,No,76.7765351,16.2861481,images/0073.jpg
+74,NRBC_D10_Survey_1,Main-Canal,main,2555.0,clear,0,No,76.7768591,16.2861024,images/0074.jpg
+75,NRBC_D10_Survey_1,Main-Canal,main,2590.0,clear,1,No,76.7771832,16.286057,images/0075.jpg
+76,NRBC_D10_Survey_1,Main-Canal,main,2625.0,clear,1,No,76.777468,16.2860174,images/0076.jpg
+77,NRBC_D10_Survey_1,Distributary,distributary,0.0,partial,11,No,76.7639193,16.2946081,images/0077.jpg
+78,NRBC_D10_Survey_1,Distributary,distributary,35.0,partial,12,No,76.7641477,16.2948226,images/0078.jpg
+79,NRBC_D10_Survey_1,Distributary,distributary,70.0,clear,5,No,76.7642741,16.2950958,images/0079.jpg
+80,NRBC_D10_Survey_1,Distributary,distributary,105.0,partial,7,No,76.7643235,16.2954084,images/0080.jpg
+81,NRBC_D10_Survey_1,Distributary,distributary,140.0,partial,15,No,76.7643716,16.2957214,images/0081.jpg
+82,NRBC_D10_Survey_1,Distributary,distributary,175.0,clear,5,No,76.7644165,16.2960345,images/0082.jpg
+83,NRBC_D10_Survey_1,Distributary,distributary,210.0,clear,3,No,76.7644606,16.2963479,images/0083.jpg
+84,NRBC_D10_Survey_1,Distributary,distributary,245.0,clear,2,No,76.7645048,16.2966613,images/0084.jpg
+85,NRBC_D10_Survey_1,Distributary,distributary,280.0,clear,2,No,76.7645484,16.2969748,images/0085.jpg
+86,NRBC_D10_Survey_1,Distributary,distributary,315.0,clear,3,No,76.7645949,16.2972877,images/0086.jpg
+87,NRBC_D10_Survey_1,Distributary,distributary,350.0,clear,4,No,76.764643,16.2976007,images/0087.jpg
+88,NRBC_D10_Survey_1,Distributary,distributary,385.0,partial,7,No,76.7646908,16.2979135,images/0088.jpg
+89,NRBC_D10_Survey_1,Distributary,distributary,420.0,partial,6,No,76.7647397,16.2982261,images/0089.jpg
+90,NRBC_D10_Survey_1,Distributary,distributary,455.0,partial,15,No,76.7647891,16.2985389,images/0090.jpg
+91,NRBC_D10_Survey_1,Distributary,distributary,490.0,partial,19,Yes,76.7648368,16.2988518,images/0091.jpg
+92,NRBC_D10_Survey_1,Distributary,distributary,525.0,partial,25,No,76.7648846,16.2991646,images/0092.jpg
+93,NRBC_D10_Survey_1,Distributary,distributary,560.0,partial,14,Yes,76.7649333,16.2994772,images/0093.jpg
+94,NRBC_D10_Survey_1,Distributary,distributary,595.0,partial,14,Yes,76.7649784,16.2997905,images/0094.jpg
+95,NRBC_D10_Survey_1,Distributary,distributary,630.0,partial,30,No,76.7650146,16.3001048,images/0095.jpg
+96,NRBC_D10_Survey_1,Distributary,distributary,665.0,partial,29,Yes,76.7650545,16.3004182,images/0096.jpg
+97,NRBC_D10_Survey_1,Distributary,distributary,700.0,partial,28,No,76.7651145,16.3007287,images/0097.jpg
+98,NRBC_D10_Survey_1,Distributary,distributary,735.0,partial,26,No,76.7651834,16.3010379,images/0098.jpg
+99,NRBC_D10_Survey_1,Distributary,distributary,770.0,moderate,37,No,76.7652482,16.301348,images/0099.jpg
+100,NRBC_D10_Survey_1,Distributary,distributary,805.0,partial,21,No,76.7653131,16.301658,images/0100.jpg
+101,NRBC_D10_Survey_1,Distributary,distributary,840.0,moderate,44,No,76.7653787,16.3019678,images/0101.jpg
+102,NRBC_D10_Survey_1,Distributary,distributary,875.0,partial,29,No,76.765443,16.3022778,images/0102.jpg
+103,NRBC_D10_Survey_1,Distributary,distributary,910.0,partial,19,No,76.7655079,16.3025878,images/0103.jpg
+104,NRBC_D10_Survey_1,Distributary,distributary,945.0,partial,12,No,76.7655738,16.3028977,images/0104.jpg
+105,NRBC_D10_Survey_1,Distributary,distributary,980.0,partial,27,No,76.7656383,16.3032077,images/0105.jpg
+106,NRBC_D10_Survey_1,Distributary,distributary,1015.0,partial,9,No,76.7657034,16.3035175,images/0106.jpg
+107,NRBC_D10_Survey_1,Distributary,distributary,1050.0,partial,14,No,76.7657691,16.3038274,images/0107.jpg
+108,NRBC_D10_Survey_1,Distributary,distributary,1085.0,partial,13,No,76.765835,16.3041374,images/0108.jpg
+109,NRBC_D10_Survey_1,Distributary,distributary,1120.0,partial,25,No,76.7659009,16.304447,images/0109.jpg
+110,NRBC_D10_Survey_1,Distributary,distributary,1155.0,partial,17,No,76.7659667,16.3047569,images/0110.jpg
+111,NRBC_D10_Survey_1,Distributary,distributary,1190.0,moderate,37,No,76.7660977,16.305376,images/0111.jpg
+112,NRBC_D10_Survey_1,Distributary,distributary,1295.0,moderate,45,No,76.7662483,16.3061033,images/0112.jpg
+113,NRBC_D10_Survey_1,Distributary,distributary,1365.0,moderate,43,No,76.7663411,16.30657,images/0113.jpg
+114,NRBC_D10_Survey_1,Distributary,distributary,1400.0,moderate,55,Yes,76.7664076,16.3069304,images/0114.jpg
+115,NRBC_D10_Survey_1,Distributary,distributary,1435.0,moderate,56,Yes,76.7664678,16.3072394,images/0115.jpg
+116,NRBC_D10_Survey_1,Distributary,distributary,1470.0,moderate,57,No,76.7665368,16.3075447,images/0116.jpg
+117,NRBC_D10_Survey_1,Distributary,distributary,1680.0,moderate,47,No,76.7669082,16.3094064,images/0117.jpg
+118,NRBC_D10_Survey_1,Distributary,distributary,1715.0,moderate,50,No,76.7670122,16.3096901,images/0118.jpg
+119,NRBC_D10_Survey_1,Distributary,distributary,1750.0,moderate,42,No,76.7672082,16.3099217,images/0119.jpg
+120,NRBC_D10_Survey_1,Distributary,distributary,1785.0,moderate,45,No,76.7674621,16.3101268,images/0120.jpg
+121,NRBC_D10_Survey_1,Distributary,distributary,1820.0,moderate,53,No,76.7677141,16.3103284,images/0121.jpg
+122,NRBC_D10_Survey_1,Distributary,distributary,1855.0,moderate,38,No,76.7679652,16.3105315,images/0122.jpg
+123,NRBC_D10_Survey_1,Distributary,distributary,1890.0,partial,17,No,76.7682271,16.3107167,images/0123.jpg
+124,NRBC_D10_Survey_1,Distributary,distributary,1925.0,partial,10,No,76.76852,16.310848,images/0124.jpg
+125,NRBC_D10_Survey_1,Distributary,distributary,1960.0,partial,25,No,76.7688326,16.3109423,images/0125.jpg
+126,NRBC_D10_Survey_1,Distributary,distributary,1995.0,partial,16,No,76.769146,16.311034,images/0126.jpg
+127,NRBC_D10_Survey_1,Distributary,distributary,2030.0,partial,24,No,76.769459,16.3111277,images/0127.jpg
+128,NRBC_D10_Survey_1,Distributary,distributary,2065.0,partial,25,No,76.7697717,16.3112214,images/0128.jpg
+129,NRBC_D10_Survey_1,Distributary,distributary,2100.0,moderate,36,No,76.7700803,16.3113134,images/0129.jpg
+130,NRBC_D10_Survey_1,Distributary,distributary,2135.0,moderate,35,No,76.7703994,16.3114076,images/0130.jpg
+131,NRBC_D10_Survey_1,Distributary,distributary,2170.0,partial,26,No,76.7707131,16.3115019,images/0131.jpg
+132,NRBC_D10_Survey_1,Distributary,distributary,2205.0,partial,18,Yes,76.7710214,16.3116006,images/0132.jpg
+133,NRBC_D10_Survey_1,Distributary,distributary,2240.0,partial,24,Yes,76.7713306,16.3117011,images/0133.jpg
+134,NRBC_D10_Survey_1,Distributary,distributary,2275.0,partial,15,Yes,76.7716227,16.3118386,images/0134.jpg
+135,NRBC_D10_Survey_1,Distributary,distributary,2310.0,partial,24,No,76.7719002,16.3120068,images/0135.jpg
+136,NRBC_D10_Survey_1,Distributary,distributary,2345.0,partial,26,No,76.7721773,16.3121751,images/0136.jpg
+137,NRBC_D10_Survey_1,Distributary,distributary,2380.0,moderate,42,No,76.7724548,16.3123434,images/0137.jpg
+138,NRBC_D10_Survey_1,Distributary,distributary,2415.0,moderate,38,No,76.7727346,16.3125141,images/0138.jpg
+139,NRBC_D10_Survey_1,Distributary,distributary,2450.0,partial,30,No,76.7730056,16.3126775,images/0139.jpg
+140,NRBC_D10_Survey_1,Distributary,distributary,2485.0,moderate,37,No,76.7732826,16.3128542,images/0140.jpg
+141,NRBC_D10_Survey_1,Distributary,distributary,2520.0,moderate,40,No,76.7735611,16.3130209,images/0141.jpg
+142,NRBC_D10_Survey_1,Distributary,distributary,2555.0,moderate,42,No,76.7738395,16.3131874,images/0142.jpg
+143,NRBC_D10_Survey_1,Distributary,distributary,2590.0,moderate,33,No,76.7741177,16.3133538,images/0143.jpg
+144,NRBC_D10_Survey_1,Distributary,distributary,2625.0,moderate,42,No,76.7743985,16.3135168,images/0144.jpg
+145,NRBC_D10_Survey_1,Distributary,distributary,2660.0,moderate,43,No,76.7746762,16.3136846,images/0145.jpg
+146,NRBC_D10_Survey_1,Distributary,distributary,2695.0,moderate,41,No,76.7749538,16.3138523,images/0146.jpg
+147,NRBC_D10_Survey_1,Distributary,distributary,2730.0,moderate,42,No,76.7752313,16.3140197,images/0147.jpg
+148,NRBC_D10_Survey_1,Distributary,distributary,2765.0,partial,30,No,76.7755095,16.3141862,images/0148.jpg
+149,NRBC_D10_Survey_1,Distributary,distributary,2800.0,partial,29,No,76.7757628,16.3143785,images/0149.jpg
+150,NRBC_D10_Survey_1,Distributary,distributary,2835.0,moderate,36,Yes,76.7759626,16.3146219,images/0150.jpg
+151,NRBC_D10_Survey_1,Distributary,distributary,2870.0,partial,27,No,76.7761423,16.3148862,images/0151.jpg
+152,NRBC_D10_Survey_1,Distributary,distributary,2905.0,partial,27,No,76.7763222,16.3151508,images/0152.jpg
+153,NRBC_D10_Survey_1,Distributary,distributary,2940.0,partial,24,No,76.7765048,16.3154132,images/0153.jpg
+154,NRBC_D10_Survey_1,Distributary,distributary,2975.0,partial,22,No,76.7766856,16.315677,images/0154.jpg
+155,NRBC_D10_Survey_1,Distributary,distributary,3010.0,partial,28,No,76.7768664,16.3159405,images/0155.jpg
+156,NRBC_D10_Survey_1,Distributary,distributary,3045.0,partial,22,No,76.7770474,16.3162041,images/0156.jpg
+157,NRBC_D10_Survey_1,Distributary,distributary,3080.0,partial,26,No,76.7772269,16.3164688,images/0157.jpg
+158,NRBC_D10_Survey_1,Distributary,distributary,3115.0,partial,17,No,76.7774015,16.3167364,images/0158.jpg
+159,NRBC_D10_Survey_1,Distributary,distributary,3150.0,partial,19,No,76.7775821,16.3170002,images/0159.jpg
+160,NRBC_D10_Survey_1,Distributary,distributary,3185.0,partial,15,No,76.7777628,16.3172639,images/0160.jpg
+161,NRBC_D10_Survey_1,Distributary,distributary,3220.0,partial,13,No,76.7779435,16.3175276,images/0161.jpg
+162,NRBC_D10_Survey_1,Distributary,distributary,3255.0,partial,18,No,76.778124,16.3177917,images/0162.jpg
+163,NRBC_D10_Survey_1,Distributary,distributary,3290.0,partial,20,No,76.7783073,16.3180537,images/0163.jpg
+164,NRBC_D10_Survey_1,Distributary,distributary,3325.0,moderate,35,No,76.778491,16.3183154,images/0164.jpg
+165,NRBC_D10_Survey_1,Distributary,distributary,3360.0,moderate,39,No,76.7786771,16.3185758,images/0165.jpg
+166,NRBC_D10_Survey_1,Distributary,distributary,3395.0,partial,25,No,76.7788578,16.3188397,images/0166.jpg
+167,NRBC_D10_Survey_1,Distributary,distributary,3430.0,partial,22,No,76.7790366,16.3191045,images/0167.jpg
+168,NRBC_D10_Survey_1,Distributary,distributary,3465.0,partial,15,No,76.7792166,16.3193687,images/0168.jpg
+169,NRBC_D10_Survey_1,Distributary,distributary,3500.0,partial,22,Yes,76.7793973,16.3196324,images/0169.jpg
+170,NRBC_D10_Survey_1,Distributary,distributary,3535.0,partial,16,No,76.7795487,16.3199094,images/0170.jpg
+171,NRBC_D10_Survey_1,Distributary,distributary,3570.0,partial,20,Yes,76.7796459,16.3202091,images/0171.jpg
+172,NRBC_D10_Survey_1,Distributary,distributary,3605.0,moderate,45,No,76.7797195,16.3205171,images/0172.jpg
+173,NRBC_D10_Survey_1,Distributary,distributary,3640.0,moderate,53,No,76.7797941,16.320825,images/0173.jpg
+174,NRBC_D10_Survey_1,Distributary,distributary,3675.0,moderate,48,No,76.7798696,16.3211328,images/0174.jpg
+175,NRBC_D10_Survey_1,Distributary,distributary,3710.0,moderate,33,No,76.7799463,16.3214403,images/0175.jpg
+176,NRBC_D10_Survey_1,Distributary,distributary,3745.0,partial,26,No,76.7800249,16.3217474,images/0176.jpg
+177,NRBC_D10_Survey_1,Distributary,distributary,3780.0,partial,29,No,76.7801004,16.3220552,images/0177.jpg
+178,NRBC_D10_Survey_1,Distributary,distributary,3815.0,moderate,42,No,76.7801762,16.3223629,images/0178.jpg
+179,NRBC_D10_Survey_1,Distributary,distributary,3850.0,partial,26,No,76.7802485,16.3226713,images/0179.jpg
+180,NRBC_D10_Survey_1,Distributary,distributary,3885.0,moderate,36,No,76.7803234,16.3229792,images/0180.jpg
+181,NRBC_D10_Survey_1,Distributary,distributary,3920.0,moderate,35,No,76.7803982,16.3232871,images/0181.jpg
+182,NRBC_D10_Survey_1,Distributary,distributary,3955.0,partial,23,No,76.7804731,16.323595,images/0182.jpg
+183,NRBC_D10_Survey_1,Distributary,distributary,3990.0,moderate,45,No,76.7805467,16.323903,images/0183.jpg
+184,NRBC_D10_Survey_1,Distributary,distributary,4025.0,moderate,48,No,76.780625,16.3242101,images/0184.jpg
+185,NRBC_D10_Survey_1,Distributary,distributary,4060.0,moderate,39,No,76.7807248,16.3244992,images/0185.jpg
+186,NRBC_D10_Survey_1,Distributary,distributary,4095.0,full,73,No,76.7809476,16.3246588,images/0186.jpg
+187,NRBC_D10_Survey_1,Distributary,distributary,4130.0,moderate,41,No,76.7812705,16.3247129,images/0187.jpg
+188,NRBC_D10_Survey_1,Distributary,distributary,4165.0,moderate,57,No,76.781595,16.3247553,images/0188.jpg
+189,NRBC_D10_Survey_1,Distributary,distributary,4200.0,moderate,66,No,76.7819188,16.3248009,images/0189.jpg
+190,NRBC_D10_Survey_1,Distributary,distributary,4235.0,moderate,47,No,76.7822423,16.3248498,images/0190.jpg
+191,NRBC_D10_Survey_1,Distributary,distributary,4270.0,moderate,32,No,76.7825661,16.324898,images/0191.jpg
+192,NRBC_D10_Survey_1,Distributary,distributary,4305.0,moderate,61,No,76.7828898,16.324944,images/0192.jpg
+193,NRBC_D10_Survey_1,Distributary,distributary,4340.0,moderate,62,No,76.7832138,16.3249904,images/0193.jpg
+194,NRBC_D10_Survey_1,Distributary,distributary,4375.0,full,71,No,76.7835377,16.3250373,images/0194.jpg
+195,NRBC_D10_Survey_1,Distributary,distributary,4410.0,full,83,No,76.7838617,16.3250843,images/0195.jpg
+196,NRBC_D10_Survey_1,Distributary,distributary,4445.0,full,90,No,76.7841855,16.325132,images/0196.jpg
+197,NRBC_D10_Survey_1,Distributary,distributary,4480.0,full,84,No,76.784509,16.3251817,images/0197.jpg
+198,NRBC_D10_Survey_1,Distributary,distributary,4515.0,full,72,No,76.7848331,16.3252272,images/0198.jpg
+199,NRBC_D10_Survey_1,Distributary,distributary,4550.0,moderate,56,No,76.7851575,16.325271,images/0199.jpg
+200,NRBC_D10_Survey_1,Distributary,distributary,4585.0,partial,23,No,76.7853529,16.3252965,images/0200.jpg
+201,NRBC_D10_Survey_1,Distributary,distributary,0.0,moderate,67,No,76.7854967,16.3253553,images/0201.jpg
+202,NRBC_D10_Survey_1,Distributary,distributary,35.0,moderate,59,No,76.7857736,16.3253689,images/0202.jpg
+203,NRBC_D10_Survey_1,Distributary,distributary,70.0,moderate,65,No,76.7860979,16.3253305,images/0203.jpg
+204,NRBC_D10_Survey_1,Distributary,distributary,105.0,full,76,No,76.7864157,16.3252638,images/0204.jpg
+205,NRBC_D10_Survey_1,Distributary,distributary,140.0,full,88,No,76.7866826,16.32519,images/0205.jpg
+206,NRBC_D10_Survey_1,Lateral 1A,lateral,0.0,moderate,36,No,76.7641098,16.2944227,images/0206.jpg
+207,NRBC_D10_Survey_1,Lateral 1A,lateral,35.0,partial,38,No,76.7642924,16.2941603,images/0207.jpg
+208,NRBC_D10_Survey_1,Lateral 1A,lateral,70.0,moderate,48,No,76.76445,16.293888,images/0208.jpg
+209,NRBC_D10_Survey_1,Lateral 1A,lateral,105.0,moderate,40,No,76.764492,16.2935921,images/0209.jpg
+210,NRBC_D10_Survey_1,Lateral 1A,lateral,140.0,moderate,50,No,76.7644521,16.293279,images/0210.jpg
+211,NRBC_D10_Survey_1,Lateral 1A,lateral,175.0,moderate,54,No,76.7644431,16.2929643,images/0211.jpg
+212,NRBC_D10_Survey_1,Lateral 1A,lateral,210.0,moderate,39,No,76.7644649,16.2926491,images/0212.jpg
+213,NRBC_D10_Survey_1,Lateral 1A,lateral,245.0,moderate,55,No,76.7644809,16.2923334,images/0213.jpg
+214,NRBC_D10_Survey_1,Lateral 1A,lateral,280.0,moderate,44,No,76.7644846,16.2920171,images/0214.jpg
+215,NRBC_D10_Survey_1,Lateral 1A,lateral,315.0,partial,25,No,76.764486,16.2917008,images/0215.jpg
+216,NRBC_D10_Survey_1,Lateral 1A,lateral,350.0,partial,22,No,76.7644865,16.2913847,images/0216.jpg
+217,NRBC_D10_Survey_1,Lateral 1A,lateral,385.0,partial,17,No,76.7644882,16.2910684,images/0217.jpg
+218,NRBC_D10_Survey_1,Lateral 1A,lateral,420.0,clear,4,No,76.7644911,16.2907521,images/0218.jpg
+219,NRBC_D10_Survey_1,Lateral 1A,lateral,455.0,partial,18,No,76.7644783,16.2904365,images/0219.jpg
+220,NRBC_D10_Survey_1,Lateral 1A,lateral,490.0,partial,28,No,76.76448,16.2901213,images/0220.jpg
+221,NRBC_D10_Survey_1,Lateral 1A,lateral,525.0,moderate,40,No,76.764517,16.2898073,images/0221.jpg
+222,NRBC_D10_Survey_1,Lateral 1A,lateral,560.0,moderate,52,No,76.7645862,16.2894996,images/0222.jpg
+223,NRBC_D10_Survey_1,Lateral 1A,lateral,595.0,moderate,55,No,76.7647149,16.2892125,images/0223.jpg
+224,NRBC_D10_Survey_1,Lateral 1A,lateral,630.0,moderate,55,No,76.7648887,16.2889445,images/0224.jpg
+225,NRBC_D10_Survey_1,Lateral 1A,lateral,665.0,moderate,56,No,76.765101,16.2887079,images/0225.jpg
+226,NRBC_D10_Survey_1,Lateral 1A,lateral,700.0,full,77,No,76.7653474,16.2885002,images/0226.jpg
+227,NRBC_D10_Survey_1,Lateral 1A,lateral,735.0,moderate,40,No,76.7655939,16.288292,images/0227.jpg
+228,NRBC_D10_Survey_1,Lateral 1A,lateral,770.0,partial,28,No,76.7658497,16.2880953,images/0228.jpg
+229,NRBC_D10_Survey_1,Lateral 1A,lateral,805.0,partial,26,No,76.7661299,16.2879444,images/0229.jpg
+230,NRBC_D10_Survey_1,Lateral 1A,lateral,840.0,partial,25,No,76.7664402,16.2878757,images/0230.jpg
+231,NRBC_D10_Survey_1,Lateral 1A,lateral,875.0,moderate,59,No,76.766767,16.2878551,images/0231.jpg
+232,NRBC_D10_Survey_1,Lateral 1A,lateral,910.0,moderate,57,No,76.7670922,16.2878479,images/0232.jpg
+233,NRBC_D10_Survey_1,Lateral 1A,lateral,945.0,partial,27,No,76.7673851,16.2879514,images/0233.jpg
+234,NRBC_D10_Survey_1,Lateral 1A,lateral,980.0,partial,22,No,76.7676433,16.2881452,images/0234.jpg
+235,NRBC_D10_Survey_1,Lateral 1A,lateral,1015.0,moderate,36,No,76.7678982,16.2883436,images/0235.jpg
+236,NRBC_D10_Survey_1,Lateral 1A,lateral,1050.0,moderate,42,No,76.7681673,16.2885104,images/0236.jpg
+237,NRBC_D10_Survey_1,Lateral 1A,lateral,1085.0,moderate,56,No,76.7684713,16.2885561,images/0237.jpg
+238,NRBC_D10_Survey_1,Lateral 1A,lateral,1120.0,moderate,43,No,76.7687967,16.2885199,images/0238.jpg
+239,NRBC_D10_Survey_1,Lateral 1A,lateral,1155.0,moderate,57,No,76.7691221,16.2884849,images/0239.jpg
+240,NRBC_D10_Survey_1,Lateral 1A,lateral,1190.0,moderate,53,No,76.7694478,16.2884521,images/0240.jpg
+241,NRBC_D10_Survey_1,Lateral 1A,lateral,1225.0,moderate,60,No,76.7697734,16.2884191,images/0241.jpg
+242,NRBC_D10_Survey_1,Lateral 1A,lateral,1260.0,moderate,38,No,76.7701012,16.288399,images/0242.jpg
+243,NRBC_D10_Survey_1,Lateral 1A,lateral,1295.0,moderate,53,No,76.7704243,16.2883498,images/0243.jpg
+244,NRBC_D10_Survey_1,Lateral 1A,lateral,1330.0,moderate,57,No,76.7707454,16.2882919,images/0244.jpg
+245,NRBC_D10_Survey_1,Lateral 1A,lateral,1365.0,moderate,49,No,76.7710628,16.2882147,images/0245.jpg
+246,NRBC_D10_Survey_1,Lateral 1A,lateral,1400.0,moderate,38,No,76.7713805,16.2881378,images/0246.jpg
+247,NRBC_D10_Survey_1,Lateral 1A,lateral,1435.0,moderate,53,No,76.7716981,16.2880605,images/0247.jpg
+248,NRBC_D10_Survey_1,Lateral 1A,lateral,1470.0,moderate,51,No,76.7720154,16.2879823,images/0248.jpg
+249,NRBC_D10_Survey_1,Lateral 1A,lateral,1505.0,moderate,64,No,76.7723324,16.2879032,images/0249.jpg
+250,NRBC_D10_Survey_1,Lateral 1A,lateral,1540.0,moderate,35,No,76.7726521,16.2878341,images/0250.jpg
+251,NRBC_D10_Survey_1,Lateral 1A,lateral,1575.0,moderate,33,No,76.7729686,16.2877536,images/0251.jpg
+252,NRBC_D10_Survey_1,Lateral 1A,lateral,1610.0,moderate,39,No,76.7732853,16.2876731,images/0252.jpg
+253,NRBC_D10_Survey_1,Lateral 1A,lateral,1645.0,full,76,No,76.7736034,16.2875973,images/0253.jpg
+254,NRBC_D10_Survey_1,Lateral 1A,lateral,1680.0,moderate,59,No,76.7739175,16.2875078,images/0254.jpg
+255,NRBC_D10_Survey_1,Lateral 1A,lateral,1715.0,moderate,44,No,76.7742315,16.2874182,images/0255.jpg
+256,NRBC_D10_Survey_1,Lateral 1A,lateral,1750.0,moderate,67,No,76.7745473,16.2873361,images/0256.jpg
+257,NRBC_D10_Survey_1,Lateral 1A,lateral,1785.0,moderate,51,No,76.774865,16.2872605,images/0257.jpg
+258,NRBC_D10_Survey_1,Lateral 1A,lateral,1820.0,moderate,60,No,76.7751821,16.2871822,images/0258.jpg
+259,NRBC_D10_Survey_1,Lateral 1A,lateral,1855.0,full,80,No,76.7754986,16.287101,images/0259.jpg
+260,NRBC_D10_Survey_1,Lateral 1A,lateral,1890.0,full,91,No,76.7758142,16.2870171,images/0260.jpg
+261,NRBC_D10_Survey_1,Lateral 1A,lateral,1925.0,moderate,60,No,76.7761277,16.2869265,images/0261.jpg
+262,NRBC_D10_Survey_1,Lateral 1A,lateral,1960.0,moderate,66,No,76.7764417,16.2868375,images/0262.jpg
+263,NRBC_D10_Survey_1,Lateral 1A,lateral,1995.0,full,73,No,76.7767582,16.2867568,images/0263.jpg
+264,NRBC_D10_Survey_1,Lateral 1A,lateral,2030.0,full,75,No,76.7769304,16.2867148,images/0264.jpg
+265,NRBC_D10_Survey_1,Lateral 1,lateral,0.0,moderate,38,No,76.7647615,16.2996819,images/0265.jpg
+266,NRBC_D10_Survey_1,Lateral 1,lateral,35.0,moderate,32,No,76.7644889,16.2998178,images/0266.jpg
+267,NRBC_D10_Survey_1,Lateral 1,lateral,70.0,moderate,36,No,76.7641702,16.29989,images/0267.jpg
+268,NRBC_D10_Survey_1,Lateral 1,lateral,105.0,moderate,38,No,76.7638516,16.2999631,images/0268.jpg
+269,NRBC_D10_Survey_1,Lateral 1,lateral,140.0,partial,30,No,76.7635318,16.3000306,images/0269.jpg
+270,NRBC_D10_Survey_1,Lateral 1,lateral,175.0,partial,19,No,76.763209,16.300075,images/0270.jpg
+271,NRBC_D10_Survey_1,Lateral 1,lateral,210.0,partial,20,No,76.7628824,16.3000723,images/0271.jpg
+272,NRBC_D10_Survey_1,Lateral 1,lateral,245.0,partial,14,No,76.7625557,16.3000846,images/0272.jpg
+273,NRBC_D10_Survey_1,Lateral 1,lateral,280.0,partial,26,No,76.7622326,16.3001275,images/0273.jpg
+274,NRBC_D10_Survey_1,Lateral 1,lateral,315.0,moderate,38,No,76.7619105,16.3001784,images/0274.jpg
+275,NRBC_D10_Survey_1,Lateral 1,lateral,350.0,moderate,50,No,76.7615854,16.3002134,images/0275.jpg
+276,NRBC_D10_Survey_1,Lateral 1,lateral,385.0,moderate,33,No,76.7612598,16.3002254,images/0276.jpg
+277,NRBC_D10_Survey_1,Lateral 1,lateral,420.0,partial,22,No,76.7609972,16.3003573,images/0277.jpg
+278,NRBC_D10_Survey_1,Lateral 1,lateral,455.0,moderate,47,No,76.7608235,16.3006197,images/0278.jpg
+279,NRBC_D10_Survey_1,Lateral 1,lateral,490.0,moderate,51,No,76.7606754,16.3009018,images/0279.jpg
+280,NRBC_D10_Survey_1,Lateral 1,lateral,525.0,moderate,32,No,76.7605258,16.3011832,images/0280.jpg
+281,NRBC_D10_Survey_1,Lateral 1,lateral,560.0,partial,29,No,76.7603749,16.301464,images/0281.jpg
+282,NRBC_D10_Survey_1,Lateral 1,lateral,595.0,moderate,41,No,76.7602229,16.3017439,images/0282.jpg
+283,NRBC_D10_Survey_1,Lateral 1,lateral,630.0,moderate,37,No,76.7600696,16.3020234,images/0283.jpg
+284,NRBC_D10_Survey_1,Lateral 1,lateral,665.0,partial,20,No,76.7599181,16.3023037,images/0284.jpg
+285,NRBC_D10_Survey_1,Lateral 1,lateral,700.0,partial,12,No,76.7597677,16.3025847,images/0285.jpg
+286,NRBC_D10_Survey_1,Lateral 1,lateral,735.0,partial,17,No,76.7596153,16.3028648,images/0286.jpg
+287,NRBC_D10_Survey_1,Lateral 1,lateral,770.0,partial,19,No,76.7594624,16.3031444,images/0287.jpg
+288,NRBC_D10_Survey_1,Lateral 1,lateral,805.0,moderate,47,No,76.7592919,16.3034112,images/0288.jpg
+289,NRBC_D10_Survey_1,Lateral 1,lateral,840.0,moderate,50,No,76.7590746,16.3036417,images/0289.jpg
+290,NRBC_D10_Survey_1,Lateral 1,lateral,875.0,moderate,46,No,76.7588299,16.3038517,images/0290.jpg
+291,NRBC_D10_Survey_1,Lateral 1,lateral,910.0,partial,18,No,76.7585876,16.3040647,images/0291.jpg
+292,NRBC_D10_Survey_1,Lateral 1,lateral,945.0,partial,30,No,76.7583452,16.3042772,images/0292.jpg
+293,NRBC_D10_Survey_1,Lateral 1,lateral,980.0,moderate,39,No,76.7581019,16.304489,images/0293.jpg
+294,NRBC_D10_Survey_1,Lateral 1,lateral,1015.0,partial,20,No,76.7578585,16.3047006,images/0294.jpg
+295,NRBC_D10_Survey_1,Lateral 1,lateral,1050.0,full,75,No,76.7576177,16.3049149,images/0295.jpg
+296,NRBC_D10_Survey_1,Lateral 1,lateral,1085.0,full,77,No,76.7574596,16.3050503,images/0296.jpg
+297,NRBC_D10_Survey_1,Lateral 2,lateral,0.0,moderate,36,No,76.7652352,16.2996996,images/0297.jpg
+298,NRBC_D10_Survey_1,Lateral 2,lateral,35.0,moderate,37,No,76.7655615,16.299677,images/0298.jpg
+299,NRBC_D10_Survey_1,Lateral 2,lateral,70.0,partial,10,No,76.7658886,16.2996686,images/0299.jpg
+300,NRBC_D10_Survey_1,Lateral 2,lateral,105.0,partial,21,No,76.7662161,16.2996621,images/0300.jpg
+301,NRBC_D10_Survey_1,Lateral 2,lateral,140.0,partial,28,No,76.7665435,16.2996556,images/0301.jpg
+302,NRBC_D10_Survey_1,Lateral 2,lateral,175.0,partial,33,No,76.7668706,16.2996428,images/0302.jpg
+303,NRBC_D10_Survey_1,Lateral 2,lateral,210.0,partial,16,No,76.7671978,16.2996258,images/0303.jpg
+304,NRBC_D10_Survey_1,Lateral 2,lateral,245.0,partial,23,No,76.767525,16.2996167,images/0304.jpg
+305,NRBC_D10_Survey_1,Lateral 2,lateral,280.0,partial,22,No,76.7678524,16.2996165,images/0305.jpg
+306,NRBC_D10_Survey_1,Lateral 2,lateral,315.0,partial,20,No,76.7681798,16.2996154,images/0306.jpg
+307,NRBC_D10_Survey_1,Lateral 2,lateral,350.0,partial,25,No,76.7685035,16.2995966,images/0307.jpg
+308,NRBC_D10_Survey_1,Lateral 2,lateral,385.0,partial,29,No,76.7687924,16.2994805,images/0308.jpg
+309,NRBC_D10_Survey_1,Lateral 2,lateral,420.0,partial,16,No,76.7690515,16.2992872,images/0309.jpg
+310,NRBC_D10_Survey_1,Lateral 2,lateral,455.0,partial,22,No,76.7693081,16.2990904,images/0310.jpg
+311,NRBC_D10_Survey_1,Lateral 2,lateral,490.0,partial,22,No,76.7695739,16.2989059,images/0311.jpg
+312,NRBC_D10_Survey_1,Lateral 2,lateral,525.0,partial,9,No,76.7698385,16.2987174,images/0312.jpg
+313,NRBC_D10_Survey_1,Lateral 2,lateral,560.0,partial,15,No,76.7701302,16.298644,images/0313.jpg
+314,NRBC_D10_Survey_1,Lateral 2,lateral,595.0,partial,10,No,76.7704375,16.298737,images/0314.jpg
+315,NRBC_D10_Survey_1,Lateral 2,lateral,630.0,partial,27,No,76.770744,16.2988483,images/0315.jpg
+316,NRBC_D10_Survey_1,Lateral 2,lateral,665.0,partial,11,No,76.7710522,16.2989552,images/0316.jpg
+317,NRBC_D10_Survey_1,Lateral 2,lateral,700.0,partial,12,No,76.7713602,16.2990622,images/0317.jpg
+318,NRBC_D10_Survey_1,Lateral 2,lateral,735.0,partial,7,No,76.7716686,16.2991686,images/0318.jpg
+319,NRBC_D10_Survey_1,Lateral 2,lateral,770.0,partial,6,No,76.771977,16.2992754,images/0319.jpg
+320,NRBC_D10_Survey_1,Lateral 2,lateral,805.0,clear,0,No,76.7722852,16.2993822,images/0320.jpg
+321,NRBC_D10_Survey_1,Lateral 2,lateral,840.0,clear,4,No,76.7725921,16.2994886,images/0321.jpg
+322,NRBC_D10_Survey_1,Lateral 2,lateral,875.0,partial,9,No,76.772901,16.299596,images/0322.jpg
+323,NRBC_D10_Survey_1,Lateral 2,lateral,910.0,partial,7,No,76.7733836,16.2996761,images/0323.jpg
+324,NRBC_D10_Survey_1,Lateral 2,lateral,980.0,clear,0,No,76.7738686,16.2997123,images/0324.jpg
+325,NRBC_D10_Survey_1,Lateral 2,lateral,1015.0,partial,6,No,76.7741954,16.2997332,images/0325.jpg
+326,NRBC_D10_Survey_1,Lateral 2,lateral,1050.0,clear,3,No,76.7745224,16.2997501,images/0326.jpg
+327,NRBC_D10_Survey_1,Lateral 2,lateral,1085.0,clear,0,No,76.7748494,16.2997672,images/0327.jpg
+328,NRBC_D10_Survey_1,Lateral 2,lateral,1120.0,partial,11,No,76.7751753,16.2997891,images/0328.jpg
+329,NRBC_D10_Survey_1,Lateral 2,lateral,1155.0,clear,5,No,76.7754816,16.2998779,images/0329.jpg
+330,NRBC_D10_Survey_1,Lateral 2,lateral,1190.0,partial,27,No,76.7757708,16.3000261,images/0330.jpg
+331,NRBC_D10_Survey_1,Lateral 2,lateral,1225.0,partial,22,No,76.7760607,16.3001731,images/0331.jpg
+332,NRBC_D10_Survey_1,Lateral 2,lateral,1260.0,partial,17,No,76.7763519,16.3003178,images/0332.jpg
+333,NRBC_D10_Survey_1,Lateral 2,lateral,1295.0,partial,18,No,76.7766449,16.3004593,images/0333.jpg
+334,NRBC_D10_Survey_1,Lateral 2,lateral,1330.0,partial,14,No,76.7769352,16.3006058,images/0334.jpg
+335,NRBC_D10_Survey_1,Lateral 2,lateral,1365.0,partial,8,No,76.7772253,16.3007526,images/0335.jpg
+336,NRBC_D10_Survey_1,Lateral 2,lateral,1400.0,partial,20,No,76.7775146,16.3009006,images/0336.jpg
+337,NRBC_D10_Survey_1,Lateral 2,lateral,1435.0,partial,19,No,76.7778036,16.3010491,images/0337.jpg
+338,NRBC_D10_Survey_1,Lateral 2,lateral,1470.0,partial,20,No,76.7780939,16.3011956,images/0338.jpg
+339,NRBC_D10_Survey_1,Lateral 2,lateral,1505.0,partial,16,No,76.7783842,16.3013423,images/0339.jpg
+340,NRBC_D10_Survey_1,Lateral 2,lateral,1540.0,partial,22,No,76.778676,16.3014857,images/0340.jpg
+341,NRBC_D10_Survey_1,Lateral 2,lateral,1575.0,partial,16,No,76.7789655,16.3016334,images/0341.jpg
+342,NRBC_D10_Survey_1,Lateral 2,lateral,1610.0,partial,18,No,76.779255,16.3017813,images/0342.jpg
+343,NRBC_D10_Survey_1,Lateral 2,lateral,1645.0,partial,12,No,76.7794892,16.3019845,images/0343.jpg
+344,NRBC_D10_Survey_1,Lateral 2,lateral,1680.0,partial,10,No,76.7796572,16.3022526,images/0344.jpg
+345,NRBC_D10_Survey_1,Lateral 2,lateral,1715.0,partial,19,No,76.7798141,16.3025301,images/0345.jpg
+346,NRBC_D10_Survey_1,Lateral 2,lateral,1750.0,clear,4,No,76.7799714,16.3028076,images/0346.jpg
+347,NRBC_D10_Survey_1,Lateral 2,lateral,1785.0,partial,15,No,76.7801286,16.303085,images/0347.jpg
+348,NRBC_D10_Survey_1,Lateral 2,lateral,1820.0,partial,23,No,76.7802863,16.3033622,images/0348.jpg
+349,NRBC_D10_Survey_1,Lateral 2,lateral,1855.0,moderate,41,No,76.7804449,16.3036389,images/0349.jpg
+350,NRBC_D10_Survey_1,Lateral 2,lateral,1890.0,partial,26,No,76.7806058,16.3039143,images/0350.jpg
+351,NRBC_D10_Survey_1,Lateral 2,lateral,1925.0,partial,23,No,76.7807754,16.3041846,images/0351.jpg
+352,NRBC_D10_Survey_1,Lateral 2,lateral,1960.0,partial,14,No,76.7809527,16.3044505,images/0352.jpg
+353,NRBC_D10_Survey_1,Lateral 2,lateral,1995.0,clear,4,No,76.7811447,16.3047047,images/0353.jpg
+354,NRBC_D10_Survey_1,Lateral 2,lateral,2030.0,partial,28,No,76.7813707,16.3049305,images/0354.jpg
+355,NRBC_D10_Survey_1,Lateral 2,lateral,2065.0,partial,9,No,76.7816191,16.3051366,images/0355.jpg
+356,NRBC_D10_Survey_1,Lateral 2,lateral,2100.0,partial,10,No,76.78187,16.3053398,images/0356.jpg
+357,NRBC_D10_Survey_1,Lateral 2,lateral,2135.0,partial,19,No,76.7821204,16.3055437,images/0357.jpg
+358,NRBC_D10_Survey_1,Lateral 2,lateral,2170.0,partial,30,No,76.7823697,16.3057488,images/0358.jpg
+359,NRBC_D10_Survey_1,Lateral 2,lateral,2205.0,partial,6,No,76.7826163,16.305957,images/0359.jpg
+360,NRBC_D10_Survey_1,Lateral 2,lateral,2240.0,partial,13,No,76.7828883,16.3061062,images/0360.jpg
+361,NRBC_D10_Survey_1,Lateral 2,lateral,2275.0,partial,24,No,76.7832009,16.3061527,images/0361.jpg
+362,NRBC_D10_Survey_1,Lateral 2,lateral,2310.0,moderate,42,No,76.783528,16.3061573,images/0362.jpg
+363,NRBC_D10_Survey_1,Lateral 2,lateral,2345.0,moderate,42,No,76.7838537,16.3061859,images/0363.jpg
+364,NRBC_D10_Survey_1,Lateral 2,lateral,2380.0,moderate,49,No,76.7841745,16.3062422,images/0364.jpg
+365,NRBC_D10_Survey_1,Lateral 2,lateral,2415.0,moderate,56,No,76.7844839,16.30634,images/0365.jpg
+366,NRBC_D10_Survey_1,Lateral 2,lateral,2450.0,moderate,67,No,76.7847865,16.3064608,images/0366.jpg
+367,NRBC_D10_Survey_1,Lateral 2,lateral,2485.0,moderate,66,No,76.7850902,16.3065792,images/0367.jpg
+368,NRBC_D10_Survey_1,Lateral 2,lateral,2520.0,full,71,No,76.7853989,16.3066751,images/0368.jpg
+369,NRBC_D10_Survey_1,Lateral 2,lateral,2555.0,full,72,No,76.7857165,16.3066742,images/0369.jpg
+370,NRBC_D10_Survey_1,Lateral 2,lateral,2590.0,full,77,No,76.7860388,16.3066188,images/0370.jpg
+371,NRBC_D10_Survey_1,Lateral 2,lateral,2625.0,full,79,No,76.7863613,16.3065636,images/0371.jpg
+372,NRBC_D10_Survey_1,Lateral 2,lateral,2660.0,full,85,No,76.7865671,16.3065307,images/0372.jpg
+373,NRBC_D10_Survey_1,Lateral 3,lateral,0.0,partial,12,No,76.7713391,16.3114468,images/0373.jpg
+374,NRBC_D10_Survey_1,Lateral 3,lateral,35.0,partial,8,No,76.7713287,16.3111308,images/0374.jpg
+375,NRBC_D10_Survey_1,Lateral 3,lateral,70.0,partial,7,No,76.7713218,16.3108152,images/0375.jpg
+376,NRBC_D10_Survey_1,Lateral 3,lateral,105.0,partial,20,No,76.7713875,16.3105109,images/0376.jpg
+377,NRBC_D10_Survey_1,Lateral 3,lateral,140.0,partial,22,No,76.7715071,16.3102166,images/0377.jpg
+378,NRBC_D10_Survey_1,Lateral 3,lateral,175.0,partial,20,No,76.7716323,16.3099242,images/0378.jpg
+379,NRBC_D10_Survey_1,Lateral 3,lateral,210.0,partial,8,No,76.7717574,16.309632,images/0379.jpg
+380,NRBC_D10_Survey_1,Lateral 3,lateral,245.0,partial,12,No,76.7719355,16.3093834,images/0380.jpg
+381,NRBC_D10_Survey_1,Lateral 3,lateral,280.0,partial,17,No,76.7721961,16.309208,images/0381.jpg
+382,NRBC_D10_Survey_1,Lateral 3,lateral,315.0,partial,12,No,76.7724868,16.3090622,images/0382.jpg
+383,NRBC_D10_Survey_1,Lateral 3,lateral,350.0,partial,16,No,76.7727754,16.3089126,images/0383.jpg
+384,NRBC_D10_Survey_1,Lateral 3,lateral,385.0,clear,4,No,76.7730648,16.3087646,images/0384.jpg
+385,NRBC_D10_Survey_1,Lateral 3,lateral,420.0,clear,3,No,76.7733552,16.3086184,images/0385.jpg
+386,NRBC_D10_Survey_1,Lateral 3,lateral,455.0,partial,11,No,76.7736475,16.3084801,images/0386.jpg
+387,NRBC_D10_Survey_1,Lateral 3,lateral,490.0,partial,10,No,76.7739428,16.3084863,images/0387.jpg
+388,NRBC_D10_Survey_1,Lateral 3,lateral,525.0,partial,28,No,76.7742396,16.3086198,images/0388.jpg
+389,NRBC_D10_Survey_1,Lateral 3,lateral,560.0,partial,24,No,76.7745358,16.3087546,images/0389.jpg
+390,NRBC_D10_Survey_1,Lateral 3,lateral,595.0,partial,22,No,76.7748285,16.3088964,images/0390.jpg
+391,NRBC_D10_Survey_1,Lateral 3,lateral,630.0,partial,12,No,76.7751161,16.3090476,images/0391.jpg
+392,NRBC_D10_Survey_1,Lateral 3,lateral,665.0,partial,11,No,76.7754038,16.3091987,images/0392.jpg
+393,NRBC_D10_Survey_1,Lateral 3,lateral,700.0,partial,12,No,76.775691,16.3093509,images/0393.jpg
+394,NRBC_D10_Survey_1,Lateral 3,lateral,735.0,partial,16,No,76.7759839,16.3094904,images/0394.jpg
+395,NRBC_D10_Survey_1,Lateral 3,lateral,770.0,partial,15,No,76.7762901,16.3095991,images/0395.jpg
+396,NRBC_D10_Survey_1,Lateral 3,lateral,805.0,partial,24,No,76.776604,16.3096893,images/0396.jpg
+397,NRBC_D10_Survey_1,Lateral 3,lateral,840.0,partial,15,No,76.7769169,16.3097824,images/0397.jpg
+398,NRBC_D10_Survey_1,Lateral 3,lateral,875.0,partial,27,No,76.7772278,16.3098803,images/0398.jpg
+399,NRBC_D10_Survey_1,Lateral 3,lateral,910.0,moderate,35,No,76.7774713,16.3100619,images/0399.jpg
+400,NRBC_D10_Survey_1,Lateral 3,lateral,945.0,partial,15,No,76.7776395,16.3103304,images/0400.jpg
+401,NRBC_D10_Survey_1,Lateral 3,lateral,980.0,partial,23,No,76.7777996,16.3106064,images/0401.jpg
+402,NRBC_D10_Survey_1,Lateral 3,lateral,1015.0,partial,18,No,76.7779901,16.3108573,images/0402.jpg
+403,NRBC_D10_Survey_1,Lateral 3,lateral,1050.0,partial,7,No,76.7781422,16.3109966,images/0403.jpg
+404,NRBC_D10_Survey_1,Lateral 4,lateral,0.0,partial,28,No,76.7715926,16.3119374,images/0404.jpg
+405,NRBC_D10_Survey_1,Lateral 4,lateral,35.0,partial,25,No,76.7718389,16.3121356,images/0405.jpg
+406,NRBC_D10_Survey_1,Lateral 4,lateral,70.0,partial,25,No,76.7720998,16.3123266,images/0406.jpg
+407,NRBC_D10_Survey_1,Lateral 4,lateral,105.0,partial,30,No,76.7723134,16.3125467,images/0407.jpg
+408,NRBC_D10_Survey_1,Lateral 4,lateral,140.0,partial,13,No,76.7724113,16.3128288,images/0408.jpg
+409,NRBC_D10_Survey_1,Lateral 4,lateral,175.0,partial,20,No,76.7724429,16.3131436,images/0409.jpg
+410,NRBC_D10_Survey_1,Lateral 4,lateral,210.0,moderate,37,No,76.7724772,16.313458,images/0410.jpg
+411,NRBC_D10_Survey_1,Lateral 4,lateral,245.0,moderate,49,No,76.7725122,16.3137724,images/0411.jpg
+412,NRBC_D10_Survey_1,Lateral 4,lateral,280.0,moderate,52,No,76.7725444,16.3140872,images/0412.jpg
+413,NRBC_D10_Survey_1,Lateral 4,lateral,315.0,moderate,47,No,76.772575,16.3144022,images/0413.jpg
+414,NRBC_D10_Survey_1,Lateral 4,lateral,350.0,moderate,50,No,76.7726032,16.3147171,images/0414.jpg
+415,NRBC_D10_Survey_1,Lateral 4,lateral,385.0,moderate,50,No,76.7725905,16.3150309,images/0415.jpg
+416,NRBC_D10_Survey_1,Lateral 4,lateral,420.0,moderate,49,No,76.7725392,16.3153433,images/0416.jpg
+417,NRBC_D10_Survey_1,Lateral 4,lateral,455.0,moderate,62,No,76.7724841,16.315655,images/0417.jpg
+418,NRBC_D10_Survey_1,Lateral 4,lateral,490.0,partial,29,No,76.7724793,16.3159599,images/0418.jpg
+419,NRBC_D10_Survey_1,Lateral 4,lateral,525.0,partial,26,No,76.7725888,16.3162531,images/0419.jpg
+420,NRBC_D10_Survey_1,Lateral 4,lateral,560.0,moderate,57,No,76.7727241,16.3165411,images/0420.jpg
+421,NRBC_D10_Survey_1,Lateral 4,lateral,595.0,moderate,61,No,76.7728366,16.3168359,images/0421.jpg
+422,NRBC_D10_Survey_1,Lateral 4,lateral,630.0,moderate,63,No,76.77291,16.3171426,images/0422.jpg
+423,NRBC_D10_Survey_1,Lateral 4,lateral,665.0,full,80,No,76.7729697,16.3174536,images/0423.jpg
+424,NRBC_D10_Survey_1,Lateral 4,lateral,700.0,moderate,65,No,76.7730294,16.3177646,images/0424.jpg
+425,NRBC_D10_Survey_1,Lateral 4,lateral,735.0,moderate,45,No,76.7730827,16.3180685,images/0425.jpg
+426,NRBC_D10_Survey_1,Lateral 5,lateral,0.0,moderate,50,No,76.7764061,16.3148946,images/0426.jpg
+427,NRBC_D10_Survey_1,Lateral 5,lateral,35.0,partial,26,No,76.776724,16.3149674,images/0427.jpg
+428,NRBC_D10_Survey_1,Lateral 5,lateral,70.0,partial,19,Yes,76.7770415,16.315045,images/0428.jpg
+429,NRBC_D10_Survey_1,Lateral 5,lateral,105.0,partial,24,No,76.7773591,16.3151222,images/0429.jpg
+430,NRBC_D10_Survey_1,Lateral 5,lateral,140.0,moderate,35,No,76.7776775,16.315196,images/0430.jpg
+431,NRBC_D10_Survey_1,Lateral 5,lateral,175.0,partial,26,No,76.7779959,16.3152698,images/0431.jpg
+432,NRBC_D10_Survey_1,Lateral 5,lateral,210.0,moderate,45,No,76.7783137,16.3153465,images/0432.jpg
+433,NRBC_D10_Survey_1,Lateral 5,lateral,245.0,full,77,No,76.7786341,16.3154113,images/0433.jpg
+434,NRBC_D10_Survey_1,Lateral 5,lateral,280.0,moderate,57,No,76.7789566,16.315465,images/0434.jpg
+435,NRBC_D10_Survey_1,Lateral 5,lateral,315.0,full,72,No,76.7792802,16.3155132,images/0435.jpg
+436,NRBC_D10_Survey_1,Lateral 5,lateral,350.0,full,75,No,76.779604,16.3155612,images/0436.jpg
+437,NRBC_D10_Survey_1,Lateral 5,lateral,385.0,full,72,No,76.7799278,16.315609,images/0437.jpg
+438,NRBC_D10_Survey_1,Lateral 5,lateral,420.0,moderate,66,No,76.7802517,16.3156556,images/0438.jpg
+439,NRBC_D10_Survey_1,Lateral 5,lateral,455.0,full,98,No,76.7805755,16.315703,images/0439.jpg
+440,NRBC_D10_Survey_1,Lateral 5,lateral,490.0,full,79,No,76.7808833,16.315797,images/0440.jpg
+441,NRBC_D10_Survey_1,Lateral 5,lateral,525.0,moderate,44,No,76.7811736,16.3159419,images/0441.jpg
+442,NRBC_D10_Survey_1,Lateral 5,lateral,560.0,moderate,49,No,76.7814689,16.3160772,images/0442.jpg
+443,NRBC_D10_Survey_1,Lateral 5,lateral,595.0,moderate,62,No,76.7817732,16.3161936,images/0443.jpg
+444,NRBC_D10_Survey_1,Lateral 5,lateral,630.0,moderate,65,No,76.7820763,16.3163133,images/0444.jpg
+445,NRBC_D10_Survey_1,Lateral 5,lateral,665.0,moderate,69,No,76.782366,16.316459,images/0445.jpg
+446,NRBC_D10_Survey_1,Lateral 5,lateral,700.0,full,80,No,76.7826493,16.316617,images/0446.jpg
+447,NRBC_D10_Survey_1,Lateral 5,lateral,735.0,full,98,No,76.7829318,16.3167757,images/0447.jpg
+448,NRBC_D10_Survey_1,Lateral 5,lateral,770.0,full,86,No,76.783209,16.3169433,images/0448.jpg
+449,NRBC_D10_Survey_1,Lateral 5,lateral,805.0,full,87,No,76.7834868,16.3171103,images/0449.jpg
+450,NRBC_D10_Survey_1,Lateral 5,lateral,840.0,full,97,No,76.7837608,16.3172797,images/0450.jpg
+451,NRBC_D10_Survey_1,Lateral 5,lateral,875.0,full,97,No,76.7839088,16.3173762,images/0451.jpg
+452,NRBC_D10_Survey_1,Lateral 6,lateral,0.0,moderate,50,No,76.7804936,16.3245145,images/0452.jpg
+453,NRBC_D10_Survey_1,Lateral 6,lateral,35.0,moderate,43,No,76.7803519,16.3247631,images/0453.jpg
+454,NRBC_D10_Survey_1,Lateral 6,lateral,70.0,moderate,66,No,76.7802929,16.3250742,images/0454.jpg
+455,NRBC_D10_Survey_1,Lateral 6,lateral,105.0,full,81,No,76.7802363,16.3253856,images/0455.jpg
+456,NRBC_D10_Survey_1,Lateral 6,lateral,140.0,moderate,66,No,76.7801792,16.3256971,images/0456.jpg
+457,NRBC_D10_Survey_1,Lateral 6,lateral,175.0,moderate,59,No,76.7801293,16.3260098,images/0457.jpg
+458,NRBC_D10_Survey_1,Lateral 6,lateral,210.0,full,87,No,76.7800127,16.3262956,images/0458.jpg
+459,NRBC_D10_Survey_1,Lateral 6,lateral,245.0,moderate,65,No,76.7798176,16.3265473,images/0459.jpg
+460,NRBC_D10_Survey_1,Lateral 6,lateral,280.0,full,81,No,76.7796095,16.3267915,images/0460.jpg
+461,NRBC_D10_Survey_1,Lateral 6,lateral,315.0,full,88,No,76.7794013,16.3270357,images/0461.jpg
+462,NRBC_D10_Survey_1,Lateral 6,lateral,350.0,full,78,No,76.7791916,16.3272787,images/0462.jpg
+463,NRBC_D10_Survey_1,Lateral 6,lateral,385.0,moderate,56,No,76.7790013,16.327532,images/0463.jpg
+464,NRBC_D10_Survey_1,Lateral 6,lateral,420.0,moderate,54,No,76.7788705,16.3278162,images/0464.jpg
+465,NRBC_D10_Survey_1,Lateral 6,lateral,455.0,moderate,36,No,76.7787809,16.3281204,images/0465.jpg
+466,NRBC_D10_Survey_1,Lateral 6,lateral,490.0,moderate,33,No,76.778708,16.3284274,images/0466.jpg
+467,NRBC_D10_Survey_1,Lateral 6,lateral,525.0,moderate,37,No,76.7786819,16.32874,images/0467.jpg
+468,NRBC_D10_Survey_1,Lateral 6,lateral,560.0,moderate,38,No,76.7786917,16.3290562,images/0468.jpg
+469,NRBC_D10_Survey_1,Lateral 6,lateral,595.0,moderate,36,No,76.7787045,16.3293722,images/0469.jpg
+470,NRBC_D10_Survey_1,Lateral 6,lateral,630.0,moderate,42,No,76.7787851,16.329669,images/0470.jpg
+471,NRBC_D10_Survey_1,Lateral 6,lateral,665.0,moderate,43,No,76.7789421,16.3299441,images/0471.jpg
+472,NRBC_D10_Survey_1,Lateral 6,lateral,700.0,moderate,35,No,76.7791123,16.3302146,images/0472.jpg
+473,NRBC_D10_Survey_1,Lateral 6,lateral,735.0,full,72,No,76.7792687,16.3304922,images/0473.jpg
+474,NRBC_D10_Survey_1,Lateral 6,lateral,770.0,moderate,40,No,76.7793669,16.3307869,images/0474.jpg
+475,NRBC_D10_Survey_1,Lateral 6,lateral,805.0,moderate,39,No,76.7793988,16.3310999,images/0475.jpg
+476,NRBC_D10_Survey_1,Lateral 6,lateral,840.0,moderate,39,No,76.7794197,16.3314156,images/0476.jpg
+477,NRBC_D10_Survey_1,Lateral 6,lateral,875.0,moderate,33,No,76.7794463,16.3317307,images/0477.jpg
+478,NRBC_D10_Survey_1,Lateral 6,lateral,910.0,moderate,63,No,76.779472,16.332046,images/0478.jpg
+479,NRBC_D10_Survey_1,Lateral 6,lateral,945.0,moderate,53,No,76.7794981,16.3323613,images/0479.jpg
+480,NRBC_D10_Survey_1,Lateral 6,lateral,980.0,moderate,65,No,76.7795156,16.332677,images/0480.jpg
+481,NRBC_D10_Survey_1,Lateral 6,lateral,1015.0,full,71,No,76.7795308,16.332993,images/0481.jpg
+482,NRBC_D10_Survey_1,Lateral 6,lateral,1050.0,moderate,41,No,76.7795476,16.3333088,images/0482.jpg
+483,NRBC_D10_Survey_1,Lateral 6,lateral,1085.0,moderate,47,No,76.7795631,16.3335567,images/0483.jpg
+484,NRBC_D10_Survey_1,Lateral 7,lateral,0.0,full,72,No,76.7826704,16.3252412,images/0484.jpg
+485,NRBC_D10_Survey_1,Lateral 7,lateral,35.0,full,76,No,76.7828269,16.3255187,images/0485.jpg
+486,NRBC_D10_Survey_1,Lateral 7,lateral,70.0,full,92,No,76.7829686,16.3258036,images/0486.jpg
+487,NRBC_D10_Survey_1,Lateral 7,lateral,105.0,full,94,No,76.7831273,16.3260774,images/0487.jpg
+488,NRBC_D10_Survey_1,Lateral 7,lateral,140.0,full,85,No,76.783333,16.3263201,images/0488.jpg
+489,NRBC_D10_Survey_1,Lateral 7,lateral,175.0,full,91,No,76.7835628,16.3265454,images/0489.jpg
+490,NRBC_D10_Survey_1,Lateral 7,lateral,210.0,full,77,No,76.7838043,16.3267582,images/0490.jpg
+491,NRBC_D10_Survey_1,Lateral 7,lateral,245.0,full,71,No,76.7840804,16.3269205,images/0491.jpg
+492,NRBC_D10_Survey_1,Lateral 7,lateral,280.0,full,75,No,76.7843827,16.32704,images/0492.jpg
+493,NRBC_D10_Survey_1,Lateral 7,lateral,315.0,full,71,No,76.7846867,16.3271573,images/0493.jpg
+494,NRBC_D10_Survey_1,Lateral 7,lateral,350.0,full,78,No,76.7849889,16.3272792,images/0494.jpg
+495,NRBC_D10_Survey_1,Lateral 7,lateral,385.0,full,80,No,76.7851975,16.3274719,images/0495.jpg
+496,NRBC_D10_Survey_1,Lateral 7,lateral,420.0,full,94,No,76.7852697,16.32776,images/0496.jpg
+497,NRBC_D10_Survey_1,Lateral 7,lateral,455.0,full,92,No,76.7852928,16.3280758,images/0497.jpg
+498,NRBC_D10_Survey_1,Lateral 7,lateral,490.0,full,86,Yes,76.7853694,16.3283579,images/0498.jpg
+499,NRBC_D10_Survey_1,Lateral 7,lateral,525.0,full,93,No,76.7855925,16.3284719,images/0499.jpg
+500,NRBC_D10_Survey_1,Lateral 7,lateral,560.0,full,99,No,76.7859188,16.3284952,images/0500.jpg
+501,NRBC_D10_Survey_1,Lateral 7,lateral,595.0,full,76,No,76.7862451,16.3285185,images/0501.jpg
+502,NRBC_D10_Survey_1,Lateral 7,lateral,630.0,full,94,No,76.7865704,16.3285542,images/0502.jpg
+503,NRBC_D10_Survey_1,Lateral 7,lateral,665.0,full,92,No,76.7868958,16.3285896,images/0503.jpg
+504,NRBC_D10_Survey_1,Lateral 7,lateral,700.0,full,92,No,76.7872194,16.3286328,images/0504.jpg
+505,NRBC_D10_Survey_1,Lateral 7,lateral,735.0,full,94,No,76.7875254,16.3287313,images/0505.jpg
+506,NRBC_D10_Survey_1,Lateral 7,lateral,770.0,full,92,No,76.7878207,16.3288662,images/0506.jpg
+507,NRBC_D10_Survey_1,Lateral 7,lateral,805.0,full,89,No,76.7881167,16.3289956,images/0507.jpg
+508,NRBC_D10_Survey_1,Lateral 7,lateral,840.0,full,86,Yes,76.7883135,16.3292117,images/0508.jpg
+509,NRBC_D10_Survey_1,Lateral 7,lateral,875.0,full,91,Yes,76.7884014,16.329515,images/0509.jpg
+510,NRBC_D10_Survey_1,Lateral 7,lateral,910.0,full,79,Yes,76.788454,16.3298276,images/0510.jpg
+511,NRBC_D10_Survey_1,Lateral 7,lateral,945.0,full,76,No,76.7885286,16.3301348,images/0511.jpg
+512,NRBC_D10_Survey_1,Lateral 7,lateral,980.0,moderate,58,No,76.7886175,16.3304384,images/0512.jpg
+513,NRBC_D10_Survey_1,Lateral 7,lateral,1015.0,full,73,No,76.7887349,16.3307332,images/0513.jpg
+514,NRBC_D10_Survey_1,Lateral 7,lateral,1050.0,full,86,No,76.7888567,16.3310265,images/0514.jpg
+515,NRBC_D10_Survey_1,Lateral 7,lateral,1085.0,full,90,No,76.7889708,16.3313227,images/0515.jpg
+516,NRBC_D10_Survey_1,Lateral 7,lateral,1120.0,full,88,No,76.7891749,16.3315267,images/0516.jpg
+517,NRBC_D10_Survey_1,Lateral 7,lateral,1155.0,full,92,No,76.789481,16.3316226,images/0517.jpg
+518,NRBC_D10_Survey_1,Lateral 7,lateral,1190.0,full,90,No,76.7897985,16.3317024,images/0518.jpg
+519,NRBC_D10_Survey_1,Lateral 7,lateral,1225.0,moderate,54,Yes,76.7900755,16.3318511,images/0519.jpg
+520,NRBC_D10_Survey_1,Lateral 7,lateral,1260.0,moderate,65,No,76.790308,16.3320702,images/0520.jpg
+521,NRBC_D10_Survey_1,Lateral 7,lateral,1295.0,full,82,No,76.790537,16.3322961,images/0521.jpg
+522,NRBC_D10_Survey_1,Lateral 7,lateral,1330.0,full,93,No,76.7907686,16.3325195,images/0522.jpg
+523,NRBC_D10_Survey_1,Lateral 7,lateral,1365.0,full,96,No,76.7910007,16.3327425,images/0523.jpg
+524,NRBC_D10_Survey_1,Lateral 7,lateral,1400.0,full,84,No,76.7912401,16.3329581,images/0524.jpg
+525,NRBC_D10_Survey_1,Lateral 7,lateral,1435.0,full,89,No,76.7914785,16.3331748,images/0525.jpg
+526,NRBC_D10_Survey_1,Lateral 7,lateral,1470.0,full,91,No,76.7917104,16.333398,images/0526.jpg
+527,NRBC_D10_Survey_1,Lateral 7,lateral,1505.0,full,83,No,76.7919555,16.3336005,images/0527.jpg
+528,NRBC_D10_Survey_1,Lateral 7,lateral,1540.0,moderate,54,No,76.7922467,16.3337166,images/0528.jpg
+529,NRBC_D10_Survey_1,Lateral 7,lateral,1575.0,moderate,63,No,76.7925709,16.3337588,images/0529.jpg
+530,NRBC_D10_Survey_1,Lateral 7,lateral,1610.0,moderate,55,No,76.7928954,16.3337895,images/0530.jpg
+531,NRBC_D10_Survey_1,Lateral 7,lateral,1645.0,full,72,No,76.7932176,16.3338408,images/0531.jpg
+532,NRBC_D10_Survey_1,Lateral 7,lateral,1680.0,moderate,47,No,76.7935381,16.3339058,images/0532.jpg
+533,NRBC_D10_Survey_1,Lateral 7,lateral,1715.0,partial,20,No,76.793858,16.3339731,images/0533.jpg
+534,NRBC_D10_Survey_1,Lateral 7,lateral,1750.0,partial,33,No,76.7941637,16.3340578,images/0534.jpg
+535,NRBC_D10_Survey_1,Lateral 7,lateral,1785.0,moderate,65,No,76.7944778,16.3341122,images/0535.jpg
+536,NRBC_D10_Survey_1,Lateral 7,lateral,1820.0,full,89,No,76.7947925,16.3341891,images/0536.jpg
+537,NRBC_D10_Survey_1,Lateral 7,lateral,1855.0,moderate,67,No,76.7951123,16.3342548,images/0537.jpg
+538,NRBC_D10_Survey_1,Lateral 7,lateral,1890.0,full,77,No,76.7954317,16.334325,images/0538.jpg
+539,NRBC_D10_Survey_1,Lateral 7,lateral,1925.0,full,84,No,76.795751,16.3343952,images/0539.jpg
+540,NRBC_D10_Survey_1,Lateral 7,lateral,1960.0,moderate,55,No,76.7960717,16.3344658,images/0540.jpg
+541,NRBC_D10_Survey_1,Lateral 7,lateral,1995.0,moderate,48,No,76.7962776,16.3346217,images/0541.jpg
+542,NRBC_D10_Survey_1,Lateral 7,lateral,2030.0,full,72,No,76.7963659,16.334824,images/0542.jpg
+543,NRBC_D10_Survey_1,Lateral 7,lateral,2065.0,moderate,67,No,76.7966299,16.3349546,images/0543.jpg
+544,NRBC_D10_Survey_1,Lateral 7,lateral,2100.0,moderate,58,No,76.7969413,16.3350528,images/0544.jpg
+545,NRBC_D10_Survey_1,Lateral 7,lateral,2135.0,full,74,No,76.7972558,16.3351395,images/0545.jpg
+546,NRBC_D10_Survey_1,Lateral 7,lateral,2205.0,moderate,61,No,76.7978991,16.3352539,images/0546.jpg
+547,NRBC_D10_Survey_1,Lateral 7,lateral,2240.0,moderate,45,No,76.7982249,16.3352828,images/0547.jpg
+548,NRBC_D10_Survey_1,Lateral 7,lateral,2275.0,moderate,50,No,76.7985522,16.3352977,images/0548.jpg
+549,NRBC_D10_Survey_1,Lateral 7,lateral,2310.0,moderate,52,No,76.7988794,16.3353084,images/0549.jpg
+550,NRBC_D10_Survey_1,Lateral 7,lateral,2345.0,moderate,41,No,76.7992069,16.335313,images/0550.jpg
+551,NRBC_D10_Survey_1,Lateral 7,lateral,2380.0,moderate,43,No,76.7995344,16.3353146,images/0551.jpg
+552,NRBC_D10_Survey_1,Lateral 7,lateral,2415.0,moderate,45,No,76.7997397,16.3353156,images/0552.jpg
+553,NRBC_D10_MISSION_1,Distributary,distributary,1295.0,moderate,45,No,76.7662484,16.3061143,images/0553.jpg
+554,NRBC_D10_MISSION_1,Distributary,distributary,1365.0,moderate,43,No,76.766341,16.3065701,images/0554.jpg
+555,NRBC_D10_MISSION_1,Distributary,distributary,1400.0,moderate,55,Yes,76.7664077,16.3069306,images/0555.jpg
+556,NRBC_D10_MISSION_1,Distributary,distributary,1435.0,moderate,56,Yes,76.7664677,16.3072394,images/0556.jpg
+557,NRBC_D10_MISSION_1,Distributary,distributary,1470.0,moderate,57,No,76.7665369,16.3075448,images/0557.jpg
+558,NRBC_D10_MISSION_1,Distributary,distributary,1505.0,partial,26,No,76.7666104,16.3078488,images/0558.jpg
+559,NRBC_D10_MISSION_1,Distributary,distributary,1540.0,partial,30,No,76.7666713,16.3081594,images/0559.jpg
+560,NRBC_D10_MISSION_1,Distributary,distributary,1575.0,moderate,40,No,76.7667321,16.3084703,images/0560.jpg
+561,NRBC_D10_MISSION_1,Distributary,distributary,1610.0,partial,27,No,76.7667925,16.3087811,images/0561.jpg
+562,NRBC_D10_MISSION_1,Distributary,distributary,1645.0,moderate,45,No,76.7668511,16.3090923,images/0562.jpg
+563,NRBC_D10_MISSION_1,Distributary,distributary,1680.0,moderate,47,No,76.766908,16.3094065,images/0563.jpg
+564,NRBC_D10_MISSION_1,Distributary,distributary,1715.0,moderate,50,No,76.7670123,16.3096901,images/0564.jpg
+565,NRBC_D10_MISSION_1,Distributary,distributary,1750.0,moderate,42,No,76.767208,16.3099218,images/0565.jpg
+566,NRBC_D10_MISSION_1,Distributary,distributary,1785.0,moderate,45,No,76.7674621,16.3101269,images/0566.jpg
+567,NRBC_D10_MISSION_1,Distributary,distributary,1820.0,moderate,53,No,76.7677141,16.3103284,images/0567.jpg
+568,NRBC_D10_MISSION_1,Distributary,distributary,1855.0,moderate,38,No,76.7679651,16.3105316,images/0568.jpg
+569,NRBC_D10_MISSION_1,Distributary,distributary,1890.0,partial,17,No,76.7682271,16.3107168,images/0569.jpg
+570,NRBC_D10_MISSION_1,Distributary,distributary,1925.0,partial,10,No,76.7684937,16.3108483,images/0570.jpg

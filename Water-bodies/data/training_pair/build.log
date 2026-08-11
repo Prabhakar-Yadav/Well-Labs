@@ -1,0 +1,9 @@
+kolar: scene S2A_43PHQ_20190325_1_L2A cloud 0.0%
+  clip 4486x4397 (45x44 km)
+  extracted 86 ponds | median 4100 m2 | <1ha 58 -> Water-bodies/data/training_pair/kolar/
+sira: scene S2B_43PGR_20181024_1_L2A cloud 0.0%
+  clip 4458x1079 (45x11 km)
+  extracted 41 ponds | median 2300 m2 | <1ha 35 -> Water-bodies/data/training_pair/sira/
+chikkaballapur: scene S2A_43PHQ_20190325_1_L2A cloud 0.0%
+  clip 4475x2023 (45x20 km)
+  extracted 129 ponds | median 3000 m2 | <1ha 105 -> Water-bodies/data/training_pair/chikkaballapur/
